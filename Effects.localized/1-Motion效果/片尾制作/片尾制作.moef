@@ -1,0 +1,4254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="5.13">
+
+<displayversion>5.6</displayversion>
+
+<factory id="1" uuid="03ce4d4f0ea74b3b9af072a0e4a61ab7">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="2" uuid="044beba5ad3211d7ac9b000393833f6a">
+	<description>样式</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="3" uuid="05250c0a92cf4cdc834259d2b7359f52">
+	<description>应用笔速度</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="4" uuid="0a5c0b1d4acd11d8b650000a95a6b5a8">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="0e8d443513b611d89395000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="6" uuid="10405f52139811d8b4db000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="7" uuid="1595b452229211d78c7f00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="8" uuid="1c5986a34e9646e08fa8e92b03ba1aaf">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="9" uuid="27f3ee8b229211d7925a00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="10" uuid="46c844a813d311d8a438000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="11" uuid="558f10b4a1c011d7998900039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="12" uuid="659953f0ba01440aaf68bcd964299605">
+	<description>应用笔压力</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="13" uuid="65cb4dc9d4504fa281921f5f751fba06">
+	<description>小组件</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>图像</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="15" uuid="69f1e0a52e7911d8b19a000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="16" uuid="712462a4323911d78f8400039389b702">
+	<description>形状</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="17" uuid="73c71d362caf11d8bc48000a95af90f2">
+	<description>核心影像滤镜</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="18" uuid="742cb47d503411d891e9000a95b0025a">
+	<description>速率</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="19" uuid="7644521e2e7911d891a6000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="20" uuid="7d468273c013498e9806a0d7bc32fddf">
+	<description>项目</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="21" uuid="878a64bd193011d8bac3000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="22" uuid="9279a0e120d64a82b26b4cf79391ff47">
+	<description>序列文本</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="23" uuid="9ea1049757784d1fa4a84ccbc0a9f4ce">
+	<description>绘制外框</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="24" uuid="aee0a63927494ed19a9667c9f83badfd">
+	<description>材质</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="25" uuid="babfc7777f4711d7aaa7000393833f6a">
+	<description>文本</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="26" uuid="caf198bdb7c34dccb8af6ebb4f382ae3">
+	<description>复制器</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="27" uuid="dab733bb21ab47e08874d786d2fdddc9">
+	<description>复制器单元</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="28" uuid="deca4859b16011d7a12d0003936f6f92">
+	<description>ProPlugin 滤镜</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="29" uuid="f32e7a31146f11d8a20a000a95af9f7e">
+	<description>渐变</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="30" uuid="f4c2c6ef713f4a18ae987242c8b7f619">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="31" uuid="fca4a88380df4dab943a0962bdb1ae75">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="32" uuid="fdc1944b229111d7b1c300039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolution>1</dynamicResolution>
+	<viewmode>0</viewmode>
+	<overlayOptions>125708</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>活跃的摄像机</cameraName>
+	<mirrorHMD>0</mirrorHMD>
+	<panZoom camera="0" zoom="0.57642606325286072" panX="330.77145970650446" panY="83.68918485553877" mode="1" centered="0"/>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>2.1741034984588623</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.7999999523162842</mediaVerticalZoom>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>0</displayAudio>
+	<displayKeyframes>0</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1.6111111640930176</videoVerticalZoom>
+	<audioVerticalZoom>1.5555555820465088</audioVerticalZoom>
+	<displayRange in="1755335263 1000000000 3 0" out="6252664737 1000000000 3 0"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>0</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>0</displayAudioWaveform>
+	<lockKeyframesInTime>0</lockKeyframesInTime>
+	<displayRange in="1755335263 1000000000 3 0" out="6252664737 1000000000 3 0"/>
+	<currentviewvolume originx="1.7553352630000001" originy="-52.236709694067628" width="4.4973294739999998" height="89.644806981086731"/>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+	<collapseState id="./1/324" state="0"/>
+	<collapseState id="./1/344" state="1"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>1280</width>
+		<height>720</height>
+		<duration>360</duration>
+		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
+		<frameRate>60</frameRate>
+		<NTSC>1</NTSC>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<workingGamut>0</workingGamut>
+		<viewGamut>-1</viewGamut>
+		<optimizeForDisplay>0</optimizeForDisplay>
+		<backgroundColor red="0" green="0" blue="0" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>0</fieldRenderingMode>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<sharpScaling>0</sharpScaling>
+		<startTimecode>0</startTimecode>
+		<presetPath>/Applications/Motion.app/Contents/Resources/zh_CN.lproj/Presets/Project/Broadcast HD 720.preset</presetPath>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterColorSpaceID>3</parameterColorSpaceID>
+		<savePreviewMovie>0</savePreviewMovie>
+		<Object3DEnvironments>100</Object3DEnvironments>
+	</sceneSettings>
+	<publishSettings>
+		<version>2</version>
+	</publishSettings>
+	<currentFrame>704704 120000 1 0</currentFrame>
+	<activeLayer>3001928760</activeLayer>
+	<timeRange offset="0 1 1 0" duration="720720 120000 1 0"/>
+	<playRange offset="0 1 1 0" duration="720720 120000 1 0"/>
+	<flags>1</flags>
+	<audioTracks>0</audioTracks>
+	<timemarkerset/>
+	<guideset/>
+	<curvesets selected="1"/>
+	<scenenode name="项目" id="3001926092" factoryID="20" version="5">
+		<scenenode name="小组件" id="3001926093" factoryID="13" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-2002 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>16</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="选项" id="103" flags="8589938688"/>
+				<parameter name="Hidden" id="102" flags="8589934608" default="0" value="1"/>
+				<parameter name="快照" id="101" flags="8589938706"/>
+				<parameter name="小组件" id="100" flags="8589934608" default="1.7777777777777777" value="1.7777777777777777"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-2002 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>16</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704"/>
+		<parameter name="对象" id="2" flags="8589938704"/>
+	</scenenode>
+	<layer name="总群oo" id="3001954960">
+		<layer name="群组 4" id="3001928760">
+			<scenenode name="上课爱放炮的Alien" id="3001929111" factoryID="25" version="5">
+				<paragraphMarginsCached cached="0"/>
+				<scrollMarginsCached cached="0"/>
+				<crawlMarginsCached cached="0"/>
+				<host hostID="0"/>
+				<textPathModified textPathModifiedVal="0"/>
+				<paragraphStyle id="3001929112">
+					<parameter name="对齐" id="401" flags="8606777360" default="0" value="1"/>
+				</paragraphStyle>
+				<style name="样式" id="3001929119" factoryID="2">
+					<copyFlags>65535</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>正常</presetName>
+					<timing in="460460 120000 1 0" out="718718 120000 1 0" offset="478478 120000 1 0"/>
+					<baseFlags>8657043504</baseFlags>
+					<foldFlags>786432</foldFlags>
+					<parameter name="字体" id="83" flags="12884906000">
+						<font>Zapfino</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="大小" id="3" flags="8606711824" default="48" value="33"/>
+					<parameter name="间距" id="81" flags="8589938704">
+						<parameter name="字距" id="79" flags="8606711824" default="0" value="0.23269999999999999"/>
+					</parameter>
+					<parameter name="表面" id="14" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="颜色" id="16" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="红色" id="1" flags="8606711824" default="1" value="0.95657819509506226"/>
+							<parameter name="绿色" id="2" flags="8606711824" default="1" value="0.96293562650680542"/>
+							<parameter name="蓝色" id="3" flags="8606711824" default="1" value="0.96282345056533813"/>
+						</parameter>
+						<parameter name="纹理" id="18" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="85" flags="8606777362"/>
+						<parameter name="不透明度" id="19" flags="8606711824" default="1" value="0.76659999999999995"/>
+					</parameter>
+					<parameter name="投影" id="21" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="25" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="88" flags="8606777362"/>
+					</parameter>
+					<parameter name="外框" id="30" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="颜色" id="32" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="红色" id="1" flags="8606711824" default="1" value="0.99999600648880005"/>
+							<parameter name="绿色" id="2" flags="8606711824" default="0" value="1"/>
+							<parameter name="蓝色" id="3" flags="8606711824" default="0" value="1"/>
+						</parameter>
+						<parameter name="纹理" id="34" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="86" flags="8606777362"/>
+						<parameter name="不透明度" id="35" flags="8606711824" default="1" value="0.28170000000000001"/>
+					</parameter>
+					<parameter name="光晕" id="38" flags="8589973520">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="42" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="87" flags="8606777362"/>
+					</parameter>
+					<parameter name="3D 文本" id="89" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="灯光" id="527" flags="8594133008">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="环境" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+					</parameter>
+				</style>
+				<styleRun style="3001929119" offset="0" length="11"/>
+				<aspectRatio>0</aspectRatio>
+				<flags>0</flags>
+				<timing in="460460 120000 1 0" out="718718 120000 1 0" offset="478478 120000 1 0"/>
+				<foldFlags>1</foldFlags>
+				<baseFlags>34078736</baseFlags>
+				<parameter name="属性" id="1" flags="8589938704">
+					<parameter name="变换" id="100" flags="8589938704">
+						<parameter name="位置" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="85.447470950623398"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="-421.21051692977341"/>
+						</parameter>
+						<parameter name="缩放" id="105" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="1" value="1.6299330233034051"/>
+							<parameter name="Y" id="2" flags="8606711824" default="1" value="1.6856645856585277"/>
+						</parameter>
+					</parameter>
+					<parameter name="倒影" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="投影" id="208" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="四角" id="207" flags="8589971458">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="裁剪" id="216" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="对象" id="2" flags="8589938704">
+					<parameter name="文本" id="369" flags="8606777344">
+						<text>上课爱放炮的Alien</text>
+					</parameter>
+					<parameter name="渲染文本" id="360" flags="8590000146" default="0" value="0"/>
+					<parameter name="面向摄像机" id="352" flags="8589934610" default="0" value="0"/>
+					<parameter name="左边界" id="323" flags="8606744592" default="0" value="0"/>
+					<parameter name="右边界" id="324" flags="8606744592" default="0" value="0"/>
+					<parameter name="上边界" id="325" flags="8606744592" default="0" value="0"/>
+					<parameter name="下边界" id="326" flags="8606744592" default="0" value="0"/>
+					<parameter name="路径选项" id="329" flags="8589971472">
+						<parameter name="形状源" id="339" flags="77330448400" default="0" value="0"/>
+						<parameter name="对齐到路径" id="333" flags="8589934610" default="1" value="1"/>
+					</parameter>
+					<parameter name="段落" id="354" flags="8589938704">
+						<parameter name="段落" id="3001929112" flags="4240">
+							<parameter name="对齐" id="401" flags="8606777360" default="0" value="1"/>
+						</parameter>
+					</parameter>
+					<parameter name="自动缩减" id="370" flags="8606810128" default="0" value="0"/>
+					<parameter name="于边界处裁剪" id="372" flags="8606744592" default="0" value="0"/>
+					<parameter name="基本" id="2000" flags="12884938770" factoryID="1">
+						<parameter name="物质" id="999552794" flags="12884906002" factoryID="30">
+							<parameter name="颜色" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="不透明度" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</parameter>
+				<behavior name="Fade Lines In" id="3001954891" factoryID="22">
+					<timing in="458458 120000 1 0" out="600600 120000 1 0" offset="480480 120000 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="格式" id="1000" flags="8589938704">
+						<foldFlags>4</foldFlags>
+						<parameter name="位置" id="1001" flags="8589938690">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8589934608" default="0" value="100"/>
+						</parameter>
+						<parameter name="不透明度" id="1044" flags="8606711824" default="1" value="0"/>
+					</parameter>
+					<parameter name="光晕" id="1016" flags="8589971474"/>
+					<parameter name="投影" id="1020" flags="8589971474"/>
+					<parameter name="控制" id="201" flags="8589938704">
+						<parameter name="激活" id="203" flags="8606777360" default="0" value="3"/>
+						<parameter name="开始" id="218" flags="8594128898" default="0" value="0"/>
+						<parameter name="结束" id="219" flags="8594128898" default="0" value="0"/>
+						<parameter name="速度" id="208" flags="8606777360" default="0" value="1"/>
+						<parameter name="自定速度" id="209" flags="8594128898">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>480480 120000 1 0</time>
+									<value>0</value>
+									<outputTangentTime>0.33366666666666667</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>600600 120000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.33366666666666667</inputTangentTime>
+									<inputTangentValue>-0.33333333333333331</inputTangentValue>
+									<outputTangentTime>0.33366666666666667</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="应用速度" id="211" flags="8606777360" default="0" value="2"/>
+						<parameter name="" id="228" flags="8589934610" default="1" value="0"/>
+						<parameter name="" id="236" flags="8589934610" default="1" value="0"/>
+					</parameter>
+					<parameter name="基本" id="2000" flags="12884938774" factoryID="1">
+						<parameter name="物质" id="999552794" flags="12884906002" factoryID="30">
+							<parameter name="颜色" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="不透明度" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</behavior>
+			</scenenode>
+			<scenenode name="点赞|评论|关注" id="3001928795" factoryID="25" version="5">
+				<paragraphMarginsCached cached="0"/>
+				<scrollMarginsCached cached="0"/>
+				<crawlMarginsCached cached="0"/>
+				<host hostID="0"/>
+				<textPathModified textPathModifiedVal="0"/>
+				<paragraphStyle id="999552804">
+					<parameter name="对齐" id="401" flags="8606777360" default="0" value="1"/>
+				</paragraphStyle>
+				<style name="样式" id="3001928797" factoryID="2">
+					<copyFlags>65535</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>正常</presetName>
+					<timing in="136136 120000 1 0" out="718718 120000 1 0" offset="478478 120000 1 0"/>
+					<baseFlags>8657043505</baseFlags>
+					<foldFlags>851968</foldFlags>
+					<parameter name="字体" id="83" flags="12884906000">
+						<font>Arial-Black</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="表面" id="14" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="颜色" id="16" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="红色" id="1" flags="12901679120" default="1" value="1"/>
+							<parameter name="绿色" id="2" flags="12901679120" default="1" value="1"/>
+							<parameter name="蓝色" id="3" flags="12901679120" default="1" value="1"/>
+						</parameter>
+						<parameter name="纹理" id="18" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="85" flags="8606777362"/>
+					</parameter>
+					<parameter name="投影" id="21" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="25" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="88" flags="8606777362"/>
+					</parameter>
+					<parameter name="外框" id="30" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="34" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="86" flags="8606777362"/>
+					</parameter>
+					<parameter name="光晕" id="38" flags="8589973520">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="42" flags="77313609744">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="87" flags="8606777362"/>
+					</parameter>
+					<parameter name="3D 文本" id="89" flags="8589971473">
+						<foldFlags>131072</foldFlags>
+						<parameter name="深度" id="504" flags="8606711824" default="10" value="27"/>
+						<parameter name="灯光" id="527" flags="8594133008">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="环境" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="Hidden Channel" id="532" flags="8589934610" default="0" value="1"/>
+					</parameter>
+					<material name="基本" id="3001928798" factoryID="24">
+						<isNamed>0</isNamed>
+						<timing offset="478478 120000 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<foldFlags>4718592</foldFlags>
+						<parameter name="Sequence ID" id="2" flags="12884902034" default="2000" value="2000"/>
+						<parameter name="层" id="100" factoryID="31">
+							<flags>8589938704</flags>
+							<foldFlags>4718592</foldFlags>
+							<parameter name="物质" id="999552794" factoryID="8">
+								<flags>8589938832</flags>
+								<foldFlags>655360</foldFlags>
+								<parameter name="层类型" id="3" flags="12884967442" default="3" value="3">
+									<curve type="0" default="3" value="3">
+										<min>0</min>
+										<max>4294967295</max>
+									</curve>
+									<savedName name="塑料"/>
+								</parameter>
+								<parameter name="类型" id="4" flags="12901744656" default="0" value="0"/>
+								<parameter name="光泽" id="109" flags="8610906128" default="0.5" value="1"/>
+								<parameter name="颜色" id="106" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="红色" id="1" flags="12901679120" default="1" value="1"/>
+									<parameter name="绿色" id="2" flags="12901679120" default="1" value="1"/>
+									<parameter name="蓝色" id="3" flags="12901679120" default="1" value="1"/>
+								</parameter>
+								<parameter name="图像选项" id="114" flags="77313609744">
+									<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+									<parameter name="偏移" id="4" flags="8589938706">
+										<foldFlags>15</foldFlags>
+									</parameter>
+									<parameter name="凹凸贴图类型" id="12" flags="8590000146" default="0" value="0"/>
+								</parameter>
+								<parameter name="启用边缘" id="116" flags="8594165776">
+									<foldFlags>131076</foldFlags>
+								</parameter>
+							</parameter>
+						</parameter>
+						<parameter name="Material Options" id="107" flags="146028892176">
+							<foldFlags>8388612</foldFlags>
+						</parameter>
+						<parameter name="共享的布局" id="106" flags="8594165776">
+							<foldFlags>4</foldFlags>
+							<parameter name="布局" id="3" flags="8590000146" default="0" value="0"/>
+						</parameter>
+						<parameter name="全局布局" id="108" flags="8589938704">
+							<foldFlags>4194304</foldFlags>
+						</parameter>
+					</material>
+				</style>
+				<style name="样式 1" id="3001929004" factoryID="2">
+					<copyFlags>65535</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>正常</presetName>
+					<timing in="480480 120000 1 0" out="718718 120000 1 0" offset="478478 120000 1 0"/>
+					<baseFlags>8657043504</baseFlags>
+					<foldFlags>786432</foldFlags>
+					<parameter name="字体" id="83" flags="12884906000">
+						<font>Arial-Black</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="表面" id="14" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="颜色" id="16" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="红色" id="1" flags="12901679120" default="1" value="1"/>
+							<parameter name="绿色" id="2" flags="12901679120" default="1" value="1"/>
+							<parameter name="蓝色" id="3" flags="12901679120" default="1" value="1"/>
+						</parameter>
+						<parameter name="纹理" id="18" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="85" flags="8606777362"/>
+					</parameter>
+					<parameter name="投影" id="21" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="25" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="88" flags="8606777362"/>
+					</parameter>
+					<parameter name="外框" id="30" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="34" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="86" flags="8606777362"/>
+					</parameter>
+					<parameter name="光晕" id="38" flags="8589973520">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="42" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="87" flags="8606777362"/>
+					</parameter>
+					<parameter name="3D 文本" id="89" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="深度" id="504" flags="8606711824" default="10" value="27"/>
+						<parameter name="灯光" id="527" flags="8589938704">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="环境" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="Hidden Channel" id="532" flags="8589934610" default="0" value="1"/>
+					</parameter>
+					<material name="基本" id="3001929005" factoryID="24">
+						<isNamed>0</isNamed>
+						<timing offset="478478 120000 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<foldFlags>4718592</foldFlags>
+						<parameter name="Sequence ID" id="2" flags="12884902034" default="2000" value="2000"/>
+						<parameter name="层" id="100" factoryID="31">
+							<flags>8589938704</flags>
+							<foldFlags>4718592</foldFlags>
+							<parameter name="物质" id="999552794" factoryID="8">
+								<flags>8589938832</flags>
+								<foldFlags>655360</foldFlags>
+								<parameter name="层类型" id="3" flags="12884967442" default="3" value="3">
+									<curve type="0" default="3" value="3">
+										<min>0</min>
+										<max>4294967295</max>
+									</curve>
+									<savedName name="塑料"/>
+								</parameter>
+								<parameter name="类型" id="4" flags="12901744656" default="0" value="0"/>
+								<parameter name="光泽" id="109" flags="8610906128" default="0.5" value="1"/>
+								<parameter name="颜色" id="106" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="红色" id="1" flags="12901679120" default="1" value="1"/>
+									<parameter name="绿色" id="2" flags="12901679120" default="1" value="1"/>
+									<parameter name="蓝色" id="3" flags="12901679120" default="1" value="1"/>
+								</parameter>
+								<parameter name="图像选项" id="114" flags="77313609744">
+									<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+									<parameter name="偏移" id="4" flags="8589938706">
+										<foldFlags>15</foldFlags>
+									</parameter>
+									<parameter name="凹凸贴图类型" id="12" flags="8590000146" default="0" value="0"/>
+								</parameter>
+								<parameter name="启用边缘" id="116" flags="8594165776">
+									<foldFlags>131076</foldFlags>
+								</parameter>
+							</parameter>
+						</parameter>
+						<parameter name="Material Options" id="107" flags="146028892176">
+							<foldFlags>8388612</foldFlags>
+						</parameter>
+						<parameter name="共享的布局" id="106" flags="8594165776">
+							<foldFlags>4</foldFlags>
+							<parameter name="布局" id="3" flags="8590000146" default="0" value="0"/>
+						</parameter>
+						<parameter name="全局布局" id="108" flags="8589938704">
+							<foldFlags>4194304</foldFlags>
+						</parameter>
+					</material>
+				</style>
+				<style name="样式 2" id="3001929006" factoryID="2">
+					<copyFlags>65535</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>正常</presetName>
+					<timing in="480480 120000 1 0" out="718718 120000 1 0" offset="478478 120000 1 0"/>
+					<baseFlags>8657043504</baseFlags>
+					<foldFlags>786432</foldFlags>
+					<parameter name="字体" id="83" flags="12884906000">
+						<font>Arial-Black</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="表面" id="14" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="颜色" id="16" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="红色" id="1" flags="12901679120" default="1" value="1"/>
+							<parameter name="绿色" id="2" flags="12901679120" default="1" value="1"/>
+							<parameter name="蓝色" id="3" flags="12901679120" default="1" value="1"/>
+						</parameter>
+						<parameter name="纹理" id="18" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="85" flags="8606777362"/>
+					</parameter>
+					<parameter name="投影" id="21" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="25" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="88" flags="8606777362"/>
+					</parameter>
+					<parameter name="外框" id="30" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="34" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="86" flags="8606777362"/>
+					</parameter>
+					<parameter name="光晕" id="38" flags="8589973520">
+						<foldFlags>131072</foldFlags>
+						<parameter name="纹理" id="42" flags="77309415440">
+							<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="融合模式" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="源媒体" id="87" flags="8606777362"/>
+					</parameter>
+					<parameter name="3D 文本" id="89" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="深度" id="504" flags="8606711824" default="10" value="27"/>
+						<parameter name="灯光" id="527" flags="8589938704">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="环境" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="Hidden Channel" id="532" flags="8589934610" default="0" value="1"/>
+					</parameter>
+					<material name="基本" id="3001929007" factoryID="24">
+						<isNamed>0</isNamed>
+						<timing offset="478478 120000 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<foldFlags>4718592</foldFlags>
+						<parameter name="Sequence ID" id="2" flags="12884902034" default="2000" value="2000"/>
+						<parameter name="层" id="100" factoryID="31">
+							<flags>8589938704</flags>
+							<foldFlags>4718592</foldFlags>
+							<parameter name="物质" id="999552794" factoryID="8">
+								<flags>8589938832</flags>
+								<foldFlags>655360</foldFlags>
+								<parameter name="层类型" id="3" flags="12884967442" default="3" value="3">
+									<curve type="0" default="3" value="3">
+										<min>0</min>
+										<max>4294967295</max>
+									</curve>
+									<savedName name="塑料"/>
+								</parameter>
+								<parameter name="类型" id="4" flags="12901744656" default="0" value="0"/>
+								<parameter name="光泽" id="109" flags="8610906128" default="0.5" value="1"/>
+								<parameter name="颜色" id="106" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="红色" id="1" flags="12901679120" default="1" value="1"/>
+									<parameter name="绿色" id="2" flags="12901679120" default="1" value="1"/>
+									<parameter name="蓝色" id="3" flags="12901679120" default="1" value="1"/>
+								</parameter>
+								<parameter name="图像选项" id="114" flags="77313609744">
+									<parameter name="图像" id="1" flags="77326254096" default="0" value="0"/>
+									<parameter name="偏移" id="4" flags="8589938706">
+										<foldFlags>15</foldFlags>
+									</parameter>
+									<parameter name="凹凸贴图类型" id="12" flags="8590000146" default="0" value="0"/>
+								</parameter>
+								<parameter name="启用边缘" id="116" flags="8594165776">
+									<foldFlags>131076</foldFlags>
+								</parameter>
+							</parameter>
+						</parameter>
+						<parameter name="Material Options" id="107" flags="146028892176">
+							<foldFlags>8388612</foldFlags>
+						</parameter>
+						<parameter name="共享的布局" id="106" flags="8594165776">
+							<foldFlags>4</foldFlags>
+							<parameter name="布局" id="3" flags="8590000146" default="0" value="0"/>
+						</parameter>
+						<parameter name="全局布局" id="108" flags="8589938704">
+							<foldFlags>4194304</foldFlags>
+						</parameter>
+					</material>
+				</style>
+				<styleRun style="3001928797" offset="0" length="8"/>
+				<styleRun style="3001929004" offset="8" length="2"/>
+				<styleRun style="3001929006" offset="10" length="2"/>
+				<aspectRatio>0</aspectRatio>
+				<flags>0</flags>
+				<timing in="480480 120000 1 0" out="718718 120000 1 0" offset="478478 120000 1 0"/>
+				<foldFlags>0</foldFlags>
+				<baseFlags>34078736</baseFlags>
+				<parameter name="属性" id="1" flags="8589938704">
+					<parameter name="变换" id="100" flags="8589938704">
+						<parameter name="位置" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="93.750663089410921"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="-279.07662105565828"/>
+						</parameter>
+						<parameter name="缩放" id="105" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="1" value="1.6299330233034051"/>
+							<parameter name="Y" id="2" flags="8606711824" default="1" value="1.6856645856585277"/>
+						</parameter>
+					</parameter>
+					<parameter name="倒影" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="投影" id="208" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="四角" id="207" flags="8589971458">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="裁剪" id="216" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="对象" id="2" flags="8589938704">
+					<parameter name="文本" id="369" flags="8606777344">
+						<text>点赞 ∙ 评论 ∙ 关注</text>
+					</parameter>
+					<parameter name="渲染文本" id="360" flags="8590000146" default="0" value="0"/>
+					<parameter name="面向摄像机" id="352" flags="8589934610" default="0" value="0"/>
+					<parameter name="路径选项" id="329" flags="8589938704">
+						<parameter name="形状源" id="339" flags="77326254096" default="0" value="0"/>
+						<parameter name="对齐到路径" id="333" flags="8589934610" default="1" value="1"/>
+					</parameter>
+					<parameter name="段落" id="354" flags="8589938704">
+						<parameter name="段落" id="999552804" flags="4240">
+							<parameter name="对齐" id="401" flags="8606777360" default="0" value="1"/>
+						</parameter>
+					</parameter>
+					<parameter name="基本" id="2000" flags="12884938770" factoryID="1">
+						<parameter name="物质" id="999552794" flags="12884906002" factoryID="30">
+							<parameter name="颜色" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="不透明度" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</parameter>
+				<behavior name="Pirouette" id="3001953189" factoryID="22">
+					<timing in="480480 120000 1 0" out="610610 120000 1 0" offset="480480 120000 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="格式" id="1000" flags="8589938704">
+						<parameter name="旋转" id="1030" flags="8589938688">
+							<foldFlags>11</foldFlags>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="6.2831853070000001"/>
+						</parameter>
+						<parameter name="基线" id="1005" flags="8606711808" default="0" value="10"/>
+					</parameter>
+					<parameter name="表面" id="1007" flags="8589938706">
+						<parameter name="颜色" id="1008" flags="8589971458">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="不透明度" id="1009" flags="8606711810" default="1" value="0"/>
+					</parameter>
+					<parameter name="外框" id="1011" flags="8589938706">
+						<parameter name="颜色" id="1012" flags="8589971458">
+							<foldFlags>15</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="光晕" id="1016" flags="8589971474">
+						<parameter name="颜色" id="1017" flags="8589971458">
+							<foldFlags>15</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="投影" id="1020" flags="8589971474">
+						<parameter name="颜色" id="1021" flags="8589971458">
+							<foldFlags>15</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="控制" id="201" flags="8589938704">
+						<parameter name="序列化" id="202" flags="8606777360" default="1" value="2"/>
+						<parameter name="开始" id="218" flags="8594128898" default="0" value="0"/>
+						<parameter name="结束" id="219" flags="8594128898" default="0" value="0"/>
+						<parameter name="延展" id="204" flags="8606711824" default="1" value="70"/>
+						<parameter name="速度" id="208" flags="8606777360" default="0" value="3"/>
+						<parameter name="自定速度" id="209" flags="8594128898">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint interpolation="1" flags="0">
+									<time>480480 120000 1 0</time>
+									<value>0</value>
+									<outputTangentTime>0.36147222222222219</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>610610 120000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.36147222222222219</inputTangentTime>
+									<inputTangentValue>-0.33333333333333331</inputTangentValue>
+									<outputTangentTime>0.36147222222222219</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="" id="228" flags="8589934610" default="1" value="0"/>
+						<parameter name="" id="236" flags="8589934610" default="1" value="0"/>
+					</parameter>
+					<parameter name="基本" id="2000" flags="12884938774" factoryID="1">
+						<parameter name="物质" id="999552794" flags="12884906002" factoryID="30">
+							<parameter name="颜色" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="不透明度" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</behavior>
+			</scenenode>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="460460 120000 1 0" out="718718 120000 1 0" offset="456456 120000 1 0"/>
+			<foldFlags>1</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="变换" id="100" flags="8589938704">
+					<parameter name="位置" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="-52.139717102050611"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="175.00870800018311"/>
+					</parameter>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="投影" id="208" flags="8589973522">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="四角" id="207" flags="8589973506">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="裁剪" id="216" flags="8589973522">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="类型" id="307" flags="8606711824" default="0" value="1"/>
+				<parameter name="固定分辨率" id="301" flags="8606713874" default="0" value="0"/>
+				<parameter name="固定宽度" id="302" flags="12901679126" default="1280" value="1280"/>
+				<parameter name="固定高度" id="303" flags="12901679126" default="720" value="720"/>
+				<parameter name="光圈宽度" id="312" flags="12884901906" default="1280" value="1280"/>
+				<parameter name="光圈高度" id="313" flags="12884901906" default="720" value="720"/>
+			</parameter>
+			<filter name="填充" id="3001928774" factoryID="28" pluginUUID="47D6B897-5749-4A6A-B93B-00FABCF72B25" pluginVersion="1" pluginName="填充" pluginDynamicParams="0">
+				<timing in="0 120000 1 0" out="478478 120000 1 0" offset="120120 120000 1 0"/>
+				<baseFlags>8589934608</baseFlags>
+				<parameter name="填充以" id="1" flags="12901744656" default="0" value="0"/>
+				<parameter name="颜色" id="2" flags="12884906000">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="渐变" id="3" flags="12889165874">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="混合" id="10001" flags="12901679104" default="1" value="1"/>
+				<parameter name="翻转" id="10002" flags="12905938976" default="0" value="0"/>
+				<parameter name="输入点" id="10003" flags="12905938976" default="1" value="1"/>
+			</filter>
+		</layer>
+		<layer name="群组 3" id="3001928217">
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="264264 120000 1 0" out="658658 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="投影" id="208" flags="8589973522">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="四角" id="207" flags="8589973506">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="裁剪" id="216" flags="8589973522">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="类型" id="307" flags="8606711824" default="0" value="1"/>
+				<parameter name="固定分辨率" id="301" flags="8606713874" default="0" value="0"/>
+				<parameter name="固定宽度" id="302" flags="12901679126" default="1280" value="1280"/>
+				<parameter name="固定高度" id="303" flags="12901679126" default="720" value="720"/>
+				<parameter name="光圈宽度" id="312" flags="12884901906" default="1280" value="1280"/>
+				<parameter name="光圈高度" id="313" flags="12884901906" default="720" value="720"/>
+			</parameter>
+		</layer>
+		<layer name="群组 1" id="3001926831">
+			<layer name="群组 2" id="3001926094">
+				<scenenode name="InkExpand01.mov" id="3001927588" factoryID="14" version="5">
+					<validTracks>0</validTracks>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="0 120000 1 0" out="718718 120000 1 0" offset="0 153600 1 0"/>
+					<foldFlags>16385</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<enabled>0</enabled>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="变换" id="100" flags="8589938704">
+							<parameter name="位置" id="101" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="22"/>
+								<parameter name="Y" id="2" flags="8606711824" default="0" value="36"/>
+							</parameter>
+						</parameter>
+						<parameter name="电影效果" id="344" flags="8589938706">
+							<foldFlags>131076</foldFlags>
+							<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+							<parameter name="焦点" id="348" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="重新定时" id="352" flags="8589934610" default="0" value="1"/>
+						</parameter>
+						<parameter name="媒体" id="324" flags="8589938704">
+							<foldFlags>4</foldFlags>
+							<parameter name="源媒体" id="300" flags="8606777360" default="0" value="3001927587"/>
+							<parameter name="源媒体" id="325" flags="8590000146"/>
+						</parameter>
+						<parameter name="页码" id="301" flags="12884901906" default="0" value="1"/>
+						<parameter name="重新定时值" id="304" flags="8590066066">
+							<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>188188 120000 1 0</time>
+									<value>95</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="重新定时值缓存" id="319" flags="8590065810">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint flags="0">
+									<time>0 153600 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint flags="0">
+									<time>235520 153600 1 0</time>
+									<value>47</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="结束条件" id="306" flags="8590000146" default="0" value="3"/>
+						<parameter name="结尾时间长度" id="307" flags="8589934610" default="0" value="266"/>
+						<parameter name="时间长度缓存" id="320" flags="8589934610" default="0" value="300"/>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="宽度" id="313" flags="12884901906" default="0" value="256"/>
+						<parameter name="高度" id="314" flags="12884901906" default="0" value="256"/>
+					</parameter>
+					<filter name="Colorize" id="3001927589" factoryID="17" pluginUUID="D995BBCF-F766-4950-89D5-7A4828CD9B6F" pluginVersion="0" pluginName="Colorize" pluginDynamicParams="0">
+						<timing in="0 120000 1 0" out="718718 120000 1 0" offset="0 153600 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<parameter name="将黑色重新映射到" id="1" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="红色" id="1" flags="8589934608" default="0.090196080505847931" value="1"/>
+							<parameter name="绿色" id="2" flags="8589934608" default="0" value="1"/>
+							<parameter name="蓝色" id="3" flags="8589934608" default="0" value="1"/>
+						</parameter>
+						<parameter name="将白色重新映射到" id="2" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="绿色" id="2" flags="8589934608" default="0.81176471710205078" value="1"/>
+							<parameter name="蓝色" id="3" flags="8589934608" default="0.63921570777893066" value="1"/>
+						</parameter>
+						<parameter name="强度" id="3" flags="12884901904" default="1" value="1"/>
+						<parameter name="Colorize::HDR In Rec. 709" id="4" flags="12889161776" default="0" value="0"/>
+						<parameter name="混合" id="10001" flags="12884901888" default="1" value="1"/>
+						<parameter name="翻转" id="10002" flags="12889161760" default="0" value="1"/>
+						<parameter name="输入点" id="10003" flags="12889161760" default="1" value="0"/>
+					</filter>
+				</scenenode>
+				<scenenode name="LightStreaks1.mov" id="3001927521" factoryID="14" version="5">
+					<validTracks>0</validTracks>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="394394 120000 1 0" out="718718 120000 1 0" offset="394394 120000 1 0"/>
+					<foldFlags>16385</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<enabled>0</enabled>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="变换" id="100" flags="8589938704">
+							<parameter name="位置" id="101" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="-38.301177979999999"/>
+								<parameter name="Y" id="2" flags="8606711824" default="0" value="-29.699493409999999"/>
+							</parameter>
+						</parameter>
+						<parameter name="电影效果" id="344" flags="8589938706">
+							<foldFlags>131076</foldFlags>
+							<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+							<parameter name="焦点" id="348" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="重新定时" id="352" flags="8589934610" default="0" value="1"/>
+						</parameter>
+						<parameter name="媒体" id="324" flags="8589938704">
+							<foldFlags>4</foldFlags>
+							<parameter name="源媒体" id="300" flags="8606777360" default="0" value="3001927524"/>
+							<parameter name="源媒体" id="325" flags="8590000146"/>
+						</parameter>
+						<parameter name="页码" id="301" flags="8589934610" default="1" value="1"/>
+						<parameter name="背景颜色" id="302" flags="8590004242">
+							<foldFlags>15</foldFlags>
+							<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+						</parameter>
+						<parameter name="重新定时值" id="304" flags="8590066066">
+							<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<postExtrapolation>2</postExtrapolation>
+								<keypoint interpolation="1" flags="0">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>48048 120000 1 0</time>
+									<value>25</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="重新定时值缓存" id="319" flags="8590065810">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint flags="0">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint flags="0">
+									<time>44044 120000 1 0</time>
+									<value>12</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="结束条件" id="306" flags="8590000146" default="0" value="2"/>
+						<parameter name="结尾时间长度" id="307" flags="8589934610" default="0" value="139"/>
+						<parameter name="时间长度缓存" id="320" flags="8589934610" default="0" value="44.279999220779217"/>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="宽度" id="313" flags="8589934610" default="1" value="720"/>
+						<parameter name="高度" id="314" flags="8589934610" default="1" value="576"/>
+					</parameter>
+					<filter name="Luma Key" id="3001927522" factoryID="28" pluginUUID="A0CE702C-9875-4C9F-9A9A-F0968C4F4A90" pluginVersion="0" pluginName="Lumakey" pluginDynamicParams="0">
+						<timing in="394394 120000 1 0" out="2794792 120000 1 0" offset="394394 120000 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<parameter name="抠像模式" id="1" flags="8606777360" default="0" value="1"/>
+						<parameter name="亮度" id="2" flags="12901744656" default="0" value="0"/>
+						<parameter name="阈值" id="3" flags="8606711824" default="0" value="0.079166665669999997"/>
+						<parameter name="容差" id="4" flags="8606711824" default="1" value="0.284722209"/>
+						<parameter name="混合" id="10001" flags="12901679104" default="1" value="1"/>
+						<parameter name="翻转" id="10002" flags="12905938976" default="0" value="1"/>
+						<parameter name="输入点" id="10003" flags="12905938976" default="1" value="0"/>
+					</filter>
+				</scenenode>
+				<scenenode name="Sliver03.png" id="3001927459" factoryID="14" version="5">
+					<validTracks>1</validTracks>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="78078 120000 1 0" out="718718 120000 1 0" offset="78078 120000 1 0"/>
+					<foldFlags>16384</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<enabled>0</enabled>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="变换" id="100" flags="8589938704">
+							<parameter name="锚点" id="107" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="12"/>
+								<parameter name="Y" id="2" flags="8606711824" default="0" value="26.100006100000002"/>
+							</parameter>
+						</parameter>
+						<parameter name="电影效果" id="344" flags="8589938706">
+							<foldFlags>131076</foldFlags>
+							<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+							<parameter name="焦点" id="348" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="媒体" id="324" flags="8589938704">
+							<foldFlags>4</foldFlags>
+							<parameter name="源媒体" id="300" flags="8606777360" default="0" value="3001927458"/>
+							<parameter name="源媒体" id="325" flags="8590000146"/>
+						</parameter>
+						<parameter name="页码" id="301" flags="8589934610" default="1" value="1"/>
+						<parameter name="背景颜色" id="302" flags="8590004242">
+							<foldFlags>15</foldFlags>
+							<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+						</parameter>
+						<parameter name="重新定时值" id="304" flags="8590066066">
+							<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>4004 120000 1 0</time>
+									<value>3</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="重新定时值缓存" id="319" flags="8590065810">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="128">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint interpolation="1" flags="128">
+									<time>4004 120000 1 0</time>
+									<value>3</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="时间长度缓存" id="320" flags="8589934610" default="0" value="2"/>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="宽度" id="313" flags="8589934610" default="1" value="45"/>
+						<parameter name="高度" id="314" flags="8589934610" default="1" value="240"/>
+					</parameter>
+				</scenenode>
+				<scenenode name="“ 圆形”副本" id="3001927135" factoryID="16" version="5">
+					<scenenode name="Emitter" id="3001927142" factoryID="26" version="5">
+						<scenenode name="““Cell”副本”副本" id="3001927146" factoryID="27" version="5">
+							<flags>0</flags>
+							<timing in="126126 120000 1 0" out="718718 120000 1 0" offset="146146 120000 1 0"/>
+							<foldFlags>0</foldFlags>
+							<baseFlags>524304</baseFlags>
+							<parameter name="属性" id="1" flags="8589938704"/>
+							<parameter name="对象" id="2" flags="8589938704">
+								<parameter name="笔画上的角度" id="145" flags="8741126144">
+									<curve type="1" default="0" value="0" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>0</value>
+											<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+											<inputTangentValue>-0</inputTangentValue>
+											<outputTangentTime>0.33333333333333198</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>0</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔画上的不透明度" id="112" flags="8589938688">
+									<foldFlags>15</foldFlags>
+									<parameter name="RGB" id="1" flags="8589938706">
+										<flags>8589938706</flags>
+										<parameter name="RGB1" id="3001927147" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.64000000000000001" value="0.64000000000000001">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.68000000000000005" value="0.68000000000000005">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.77000000000000002" value="0.77000000000000002">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+										<parameter name="RGB2" id="3001927148" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="1" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.20999999999999999" value="0.20999999999999999">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.42999999999999999" value="0.42999999999999999">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.75" value="0.75">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+									</parameter>
+									<parameter name="不透明度" id="2" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="不透明度1" id="3001927149" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="1" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+									</parameter>
+								</parameter>
+								<parameter name="笔画上的源起始帧" id="149" flags="8745320464">
+									<curve type="1" default="0" value="0" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>3.4028234663852886e+38</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>0</value>
+											<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+											<inputTangentValue>-0</inputTangentValue>
+											<outputTangentTime>0.33333333333333198</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>0</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="随机种子" id="131" flags="12884901888" default="965420635" value="965420635"/>
+								<parameter name="动态" id="137" flags="8589971456">
+									<foldFlags>8519684</foldFlags>
+								</parameter>
+								<parameter name="笔画上的间距" id="139" flags="8741126144">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0.01</min>
+										<max>3.4028234663852886e+38</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+											<inputTangentValue>-0</inputTangentValue>
+											<outputTangentTime>0.33333333333333198</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔画上的宽度" id="140" flags="8741126144">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>3.4028234663852886e+38</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+											<inputTangentValue>-0</inputTangentValue>
+											<outputTangentTime>0.33333333333333198</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔画上的抖动" id="144" flags="8589938688">
+									<foldFlags>15</foldFlags>
+									<parameter name="X" id="1" flags="8741126160">
+										<curve type="1" default="0" value="0" round="0">
+											<numberOfKeypoints>2</numberOfKeypoints>
+											<min>0</min>
+											<keypoint interpolation="1" flags="0">
+												<time>0 1 1 0</time>
+												<value>0</value>
+												<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+												<inputTangentValue>-0</inputTangentValue>
+												<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+												<outputTangentValue>0</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>262144 262144 1 0</time>
+												<value>0</value>
+											</keypoint>
+										</curve>
+									</parameter>
+									<parameter name="Y" id="2" flags="8741126160">
+										<curve type="1" default="0" value="0" round="0">
+											<numberOfKeypoints>2</numberOfKeypoints>
+											<min>0</min>
+											<keypoint interpolation="1" flags="0">
+												<time>0 1 1 0</time>
+												<value>0</value>
+												<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+												<inputTangentValue>-0</inputTangentValue>
+												<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+												<outputTangentValue>0</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>262144 262144 1 0</time>
+												<value>0</value>
+											</keypoint>
+										</curve>
+									</parameter>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔刷源" id="128" flags="77309476864" default="0" value="0"/>
+								<parameter name="Hidden Channel" id="152" flags="8589934594" default="0" value="1"/>
+								<parameter name="笔刷描述文件" id="200" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="RGB" id="1" flags="8589938706">
+										<flags>8589938706</flags>
+										<parameter name="RGB1" id="3001927150" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="1" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="1" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="1" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+										<parameter name="RGB2" id="3001927151" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="1" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+									</parameter>
+									<parameter name="不透明度" id="2" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="不透明度1" id="3001927152" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="1" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+										<parameter name="不透明度2" id="3001927153" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="1" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+									</parameter>
+								</parameter>
+								<parameter name="Hidden Opacity Over Stroke" id="201" flags="8724348944">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+											<inputTangentValue>-0</inputTangentValue>
+											<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+							</parameter>
+						</scenenode>
+						<aspectRatio>1</aspectRatio>
+						<flags>0</flags>
+						<timing in="126126 120000 1 0" out="718718 120000 1 0" offset="146146 120000 1 0"/>
+						<foldFlags>262144</foldFlags>
+						<baseFlags>524304</baseFlags>
+						<parameter name="属性" id="1" flags="8589938704">
+							<parameter name="灯光" id="230" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="阴影" id="234" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="对象" id="2" flags="8589938704">
+							<parameter name="形状参数" id="301" flags="8589938704">
+								<parameter name="形状" id="302" flags="12884967442" default="4" value="4"/>
+								<parameter name="于点处发射" id="303" flags="8589934592" default="1" value="1"/>
+								<parameter name="点" id="304" flags="8589934592" default="5" value="5"/>
+								<parameter name="评级" id="359" flags="8589934594" default="5" value="5"/>
+								<parameter name="原点" id="360" flags="8590000130" default="14" value="14"/>
+								<parameter name="构件样式" id="361" flags="8590000130" default="0" value="0"/>
+								<parameter name="构件样式" id="332" flags="8590000128" default="1" value="1"/>
+								<parameter name="随机播放顺序" id="335" flags="8589934592" default="0" value="0"/>
+								<parameter name="偏移" id="336" flags="8589934592" default="0" value="0"/>
+								<parameter name="消振" id="351" flags="8589934594" default="0" value="0"/>
+								<parameter name="形状源" id="326" flags="77309476866" default="0" value="0"/>
+								<parameter name="图像源" id="327" flags="77309476866" default="0" value="0"/>
+							</parameter>
+							<parameter name="全局控制" id="312" flags="8589938706">
+								<parameter name="速度" id="317" flags="12884901888" default="1" value="1"/>
+							</parameter>
+							<parameter name="反转堆栈" id="348" flags="8589934592" default="0" value="0"/>
+							<parameter name="复制种子" id="349" flags="12884901890" default="965420633" value="965420633"/>
+							<parameter name="渲染粒子" id="362" flags="12884967426" default="1" value="1"/>
+						</parameter>
+						<behavior name="笔压力" id="3001927143" factoryID="12">
+							<timing in="126126 120000 1 0" out="718718 120000 1 0" offset="146146 120000 1 0"/>
+							<baseFlags>8589934608</baseFlags>
+						</behavior>
+						<behavior name="笔速度" id="3001927144" factoryID="3">
+							<timing in="126126 120000 1 0" out="718718 120000 1 0" offset="146146 120000 1 0"/>
+							<baseFlags>8589934608</baseFlags>
+							<enabled>0</enabled>
+						</behavior>
+					</scenenode>
+					<isShapeStyle>0</isShapeStyle>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="126126 120000 1 0" out="718718 120000 1 0" offset="146146 120000 1 0"/>
+					<foldFlags>0</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="变换" id="100" flags="8589938704">
+							<parameter name="位置" id="101" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="75.459340162232266"/>
+								<parameter name="Y" id="2" flags="8606711824" default="0" value="-10.913746282088219"/>
+							</parameter>
+							<parameter name="缩放" id="105" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="1" value="1.0182904529963803"/>
+								<parameter name="Y" id="2" flags="8606711824" default="1" value="0.9604118756697978"/>
+							</parameter>
+						</parameter>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="形状" id="353" flags="8589938704">
+							<parameter name="动画" id="117" flags="8589934610" default="0" value="0">
+								<curve_X/>
+								<curve_Y/>
+								<closed>0</closed>
+							</parameter>
+							<parameter name="形状类型" id="100" flags="12884967442" default="4" value="4"/>
+							<parameter name="闭合" id="116" flags="8590000146" default="0" value="1"/>
+							<parameter name="圆度" id="144" flags="8589934610" default="0" value="0"/>
+							<parameter name="保留比例" id="152" flags="8589934610" default="1" value="1"/>
+							<parameter name="填充" id="113" flags="8589971472">
+								<foldFlags>131072</foldFlags>
+								<parameter name="渐变" id="104" flags="8589938706">
+									<foldFlags>15</foldFlags>
+									<parameter name="RGB" id="1" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="RGB1" id="3001927136" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.64000000000000001" value="0.64000000000000001">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.68000000000000005" value="0.68000000000000005">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.77000000000000002" value="0.77000000000000002">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+										<parameter name="RGB2" id="3001927137" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="1" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.20999999999999999" value="0.20999999999999999">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.42999999999999999" value="0.42999999999999999">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0.75" value="0.75">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+									</parameter>
+									<parameter name="不透明度" id="2" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="不透明度1" id="3001927138" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0.5" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="1" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+									</parameter>
+								</parameter>
+							</parameter>
+							<parameter name="外框" id="108" flags="8589938704">
+								<foldFlags>131072</foldFlags>
+								<parameter name="笔刷类型" id="139" flags="12901744656" default="1" value="1"/>
+								<parameter name="笔刷颜色" id="107" flags="12884906000">
+									<foldFlags>15</foldFlags>
+									<parameter name="绿色" id="2" flags="8606711824" default="1" value="0.57637232542037964"/>
+									<parameter name="蓝色" id="3" flags="8606711824" default="1" value="0"/>
+								</parameter>
+								<parameter name="笔刷不透明度" id="142" flags="8606711824" default="1" value="0.43670000000000003"/>
+								<parameter name="宽度" id="105" flags="12901679120" default="1" value="17"/>
+								<parameter name="箭头长度" id="132" flags="8606711826" default="3" value="3"/>
+								<parameter name="箭头宽度" id="133" flags="8606711826" default="3" value="3"/>
+								<parameter name="笔画上的压力" id="136" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔画上的笔速" id="138" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+							</parameter>
+							<parameter name="羽化" id="102" flags="8606744592" default="0" value="0"/>
+							<parameter name="散开" id="158" flags="8606744592" default="0" value="0"/>
+							<parameter name="曲率" id="159" flags="12901679120" default="1" value="1"/>
+							<parameter name="半径" id="160" flags="8589938704">
+								<foldFlags>8388623</foldFlags>
+								<parameter name="X" id="1" flags="12901679120" default="233.37369537353516" value="233.37369537353516"/>
+								<parameter name="Y" id="2" flags="12901679120" default="242.00868988037109" value="242.00868988037109"/>
+							</parameter>
+							<parameter name="已完成" id="157" flags="8589934610" default="0" value="1"/>
+							<parameter name="固定羽化" id="165" flags="8606810128" default="0" value="0"/>
+						</parameter>
+					</parameter>
+				</scenenode>
+				<scenenode name="Telophase Cell" id="3001926610" factoryID="14" version="5">
+					<validTracks>1</validTracks>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="126126 120000 1 0" out="718718 120000 1 0" offset="282282 120000 1 0"/>
+					<foldFlags>16384</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<enabled>0</enabled>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="电影效果" id="344" flags="8589938706">
+							<foldFlags>131076</foldFlags>
+							<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+							<parameter name="焦点" id="348" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="媒体" id="324" flags="8589938704">
+							<parameter name="源媒体" id="300" flags="8606777360" default="0" value="3001926612"/>
+							<parameter name="源媒体" id="325" flags="8590000146"/>
+						</parameter>
+						<parameter name="页码" id="301" flags="12884901906" default="0" value="1"/>
+						<parameter name="重新定时值" id="304" flags="8590066066">
+							<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>38400000 3840000 1 0</time>
+									<value>600.40059940059939</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="重新定时值缓存" id="319" flags="8590065810">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="128">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint interpolation="1" flags="128">
+									<time>38400000 3840000 1 0</time>
+									<value>600.40059940059939</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="时间长度缓存" id="320" flags="8589934610" default="0" value="599.40059940059939"/>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="已替换" id="312" flags="8589934610" default="0" value="1"/>
+						<parameter name="宽度" id="313" flags="12884901906" default="0" value="512"/>
+						<parameter name="高度" id="314" flags="12884901906" default="0" value="512"/>
+					</parameter>
+				</scenenode>
+				<scenenode name="InkSponge.mov" id="3001926545" factoryID="14" version="5">
+					<validTracks>0</validTracks>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="282282 120000 1 0" out="718718 120000 1 0" offset="282282 120000 1 0"/>
+					<foldFlags>16384</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<enabled>0</enabled>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="电影效果" id="344" flags="8589938706">
+							<foldFlags>131076</foldFlags>
+							<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+							<parameter name="焦点" id="348" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="媒体" id="324" flags="8589938704">
+							<parameter name="源媒体" id="300" flags="8606777360" default="0" value="3001926544"/>
+							<parameter name="源媒体" id="325" flags="8590000146"/>
+						</parameter>
+						<parameter name="页码" id="301" flags="8589934610" default="1" value="1"/>
+						<parameter name="背景颜色" id="302" flags="8590004242">
+							<foldFlags>15</foldFlags>
+							<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+						</parameter>
+						<parameter name="反转" id="310" flags="8610938896" default="0" value="0"/>
+						<parameter name="时间重新映射" id="303" flags="8590000146" default="0" value="1"/>
+						<parameter name="重新定时值" id="304" flags="8611037584">
+							<curve type="1" default="1" value="1" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>0 120000 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.10010000000000001</outputTangentTime>
+									<outputTangentValue>3</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>36036 120000 1 0</time>
+									<value>10</value>
+									<inputTangentTime>-0.10010000000000001</inputTangentTime>
+									<inputTangentValue>-3</inputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="重新定时值缓存" id="319" flags="8590065810" default="1" value="1"/>
+						<parameter name="结束条件" id="306" flags="8590032914" default="0" value="0"/>
+						<parameter name="时间长度缓存" id="320" flags="8589934610" default="0" value="113"/>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="已替换" id="312" flags="8589934610" default="0" value="1"/>
+						<parameter name="宽度" id="313" flags="8606711824" default="1" value="288"/>
+						<parameter name="高度" id="314" flags="8606711824" default="1" value="432"/>
+					</parameter>
+				</scenenode>
+				<scenenode name="InkExpand06.mov" id="3001926370" factoryID="14" version="5">
+					<validTracks>0</validTracks>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-4004 120000 1 0"/>
+					<foldFlags>16384</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<enabled>0</enabled>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="变换" id="100" flags="8589938704">
+							<parameter name="位置" id="101" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="17"/>
+								<parameter name="Y" id="2" flags="8606711824" default="0" value="50"/>
+							</parameter>
+							<parameter name="锚点" id="107" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="22"/>
+								<parameter name="Y" id="2" flags="8606711824" default="0" value="53"/>
+							</parameter>
+						</parameter>
+						<parameter name="电影效果" id="344" flags="8589938706">
+							<foldFlags>131076</foldFlags>
+							<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+							<parameter name="焦点" id="348" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="重新定时" id="352" flags="8589934610" default="0" value="1"/>
+						</parameter>
+						<parameter name="媒体" id="324" flags="8589938704">
+							<foldFlags>4</foldFlags>
+							<parameter name="源媒体" id="300" flags="8606777360" default="0" value="3001926369"/>
+							<parameter name="源媒体" id="325" flags="8590000146"/>
+						</parameter>
+						<parameter name="页码" id="301" flags="12884901906" default="0" value="1"/>
+						<parameter name="重新定时值" id="304" flags="8590066066">
+							<curve type="1" default="1" value="65" round="0" retimingExtrapolation="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>128128 120000 1 0</time>
+									<value>65</value>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>416416 120000 1 0</time>
+									<value>209</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="重新定时值缓存" id="319" flags="8590065810">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint flags="0">
+									<time>0 153600 1 0</time>
+									<value>1</value>
+								</keypoint>
+								<keypoint flags="0">
+									<time>527360 153600 1 0</time>
+									<value>104</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="结束条件" id="306" flags="8590000146" default="0" value="3"/>
+						<parameter name="结尾时间长度" id="307" flags="8589934610" default="0" value="154"/>
+						<parameter name="时间长度缓存" id="320" flags="8589934610" default="0" value="10104"/>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="宽度" id="313" flags="12884901906" default="0" value="256"/>
+						<parameter name="高度" id="314" flags="12884901906" default="0" value="256"/>
+					</parameter>
+				</scenenode>
+				<scenenode name="圆形" id="3001926293" factoryID="16" version="5">
+					<scenenode name="Emitter" id="3001927581" factoryID="26" version="5">
+						<scenenode name="“Cell copy”副本" id="3001927582" factoryID="27" version="5">
+							<flags>0</flags>
+							<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-2002 120000 1 0"/>
+							<foldFlags>0</foldFlags>
+							<baseFlags>524304</baseFlags>
+							<parameter name="属性" id="1" flags="8589938704"/>
+							<parameter name="对象" id="2" flags="8589938704">
+								<parameter name="生命" id="104" flags="8589934594" default="10000" value="1570"/>
+								<parameter name="生命随机性" id="105" flags="8589934594" default="0" value="0"/>
+								<parameter name="速度" id="106" flags="8589934594" default="100" value="29"/>
+								<parameter name="速度随机性" id="107" flags="8589934594" default="0" value="48"/>
+								<parameter name="笔画上的角度" id="145" flags="8741126144">
+									<curve type="1" default="0" value="0" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<keypoint flags="0">
+											<time>0 153600 1 0</time>
+											<value>0</value>
+										</keypoint>
+										<keypoint flags="0">
+											<time>153600 153600 1 0</time>
+											<value>0</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔刷角度随机性" id="148" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="角度随机性" id="3" flags="8589934608" default="0" value="8.0634211439999994"/>
+								</parameter>
+								<parameter name="扭转" id="110" flags="8589934594" default="0" value="0"/>
+								<parameter name="扭转随机性" id="111" flags="8589934594" default="0" value="0.57595865319999995"/>
+								<parameter name="笔画上的不透明度" id="112" flags="8589938688">
+									<foldFlags>11</foldFlags>
+									<parameter name="RGB" id="1" flags="8589938706">
+										<flags>8589938706</flags>
+										<parameter name="RGB1" id="3001927573" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0.93711161610000004">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0.1501634121">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="灰度系数" id="10" factoryID="32">
+													<flags>8589934610</flags>
+													<curve type="0" default="2.2000000000000002" value="2.2000000000000002"/>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+										<parameter name="RGB2" id="3001927574" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0.92060589790000003">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="灰度系数" id="10" factoryID="32">
+													<flags>8589934610</flags>
+													<curve type="0" default="2.2000000000000002" value="2.2000000000000002"/>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+									</parameter>
+									<parameter name="不透明度" id="2" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="不透明度1" id="3001927575" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+									</parameter>
+								</parameter>
+								<parameter name="笔刷比例" id="116" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="X" id="1" flags="8589934608" default="1" value="1.5"/>
+									<parameter name="Y" id="2" flags="8589934608" default="1" value="1.5"/>
+								</parameter>
+								<parameter name="笔刷比例随机性" id="117" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="X" id="1" flags="8589934608" default="0" value="0.40000000000000002"/>
+									<parameter name="Y" id="2" flags="8589934608" default="0" value="0.40000000000000002"/>
+								</parameter>
+								<parameter name="笔画上的源起始帧" id="149" flags="8741126160">
+									<curve type="1" default="0" value="0" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>360</max>
+										<keypoint flags="0">
+											<time>0 153600 1 0</time>
+											<value>0</value>
+										</keypoint>
+										<keypoint flags="0">
+											<time>153600 153600 1 0</time>
+											<value>0</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="随机种子" id="131" flags="12884901888" default="13423" value="100026"/>
+								<parameter name="动态" id="137" flags="8589938688">
+									<foldFlags>8519680</foldFlags>
+								</parameter>
+								<parameter name="间距" id="138" flags="8589934592" default="0.25" value="0.17999999999999999"/>
+								<parameter name="笔画上的间距" id="139" flags="8741126144">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>4</numberOfKeypoints>
+										<min>0.01</min>
+										<max>3.4028234663852886e+38</max>
+										<keypoint flags="0">
+											<time>0 153600 1 0</time>
+											<value>1</value>
+										</keypoint>
+										<keypoint flags="0">
+											<time>772380930 1000000000 3 0</time>
+											<value>1</value>
+										</keypoint>
+										<keypoint flags="0">
+											<time>812380950 1000000000 3 0</time>
+											<value>1.7069000000000001</value>
+										</keypoint>
+										<keypoint flags="0">
+											<time>995889300 1000000000 3 0</time>
+											<value>1.0535000000000001</value>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔画上的宽度" id="140" flags="8741126144" default="1" value="1">
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="固定笔刷 DAB" id="141" flags="8589934592" default="1" value="0"/>
+								<parameter name="笔画上的抖动" id="144" flags="8589938688">
+									<foldFlags>15</foldFlags>
+									<parameter name="X" id="1" flags="8741126160">
+										<curve type="1" default="0" value="0" round="0">
+											<numberOfKeypoints>3</numberOfKeypoints>
+											<keypoint flags="0">
+												<time>0 153600 1 0</time>
+												<value>0</value>
+											</keypoint>
+											<keypoint flags="0">
+												<time>918095250 1000000000 3 0</time>
+												<value>0</value>
+											</keypoint>
+											<keypoint flags="0">
+												<time>153600 153600 1 0</time>
+												<value>1.8965000000000001</value>
+											</keypoint>
+										</curve>
+									</parameter>
+									<parameter name="Y" id="2" flags="8741126160">
+										<curve type="1" default="0" value="0" round="0">
+											<numberOfKeypoints>3</numberOfKeypoints>
+											<keypoint flags="0">
+												<time>0 153600 1 0</time>
+												<value>0</value>
+											</keypoint>
+											<keypoint flags="0">
+												<time>918095250 1000000000 3 0</time>
+												<value>0</value>
+											</keypoint>
+											<keypoint flags="0">
+												<time>153600 153600 1 0</time>
+												<value>1.3104</value>
+											</keypoint>
+										</curve>
+									</parameter>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔刷源" id="128" flags="8590000128" default="0" value="3001927588"/>
+								<parameter name="Hidden Channel" id="150" flags="12884901890" default="4" value="5"/>
+								<parameter name="笔刷描述文件" id="200" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="RGB" id="1" flags="8589938706">
+										<flags>8589938706</flags>
+										<parameter name="RGB1" id="3001927576" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="灰度系数" id="10" factoryID="32">
+													<flags>8589934610</flags>
+													<curve type="0" default="2.2000000000000002" value="2.2000000000000002"/>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+										<parameter name="RGB2" id="3001927577" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="灰度系数" id="10" factoryID="32">
+													<flags>8589934610</flags>
+													<curve type="0" default="2.2000000000000002" value="2.2000000000000002"/>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+									</parameter>
+									<parameter name="不透明度" id="2" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="不透明度1" id="3001927578" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+										<parameter name="不透明度2" id="3001927579" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+									</parameter>
+								</parameter>
+								<parameter name="Hidden Opacity Over Stroke" id="201" flags="8724348944">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+							</parameter>
+						</scenenode>
+						<aspectRatio>1</aspectRatio>
+						<flags>0</flags>
+						<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-2002 120000 1 0"/>
+						<foldFlags>262144</foldFlags>
+						<baseFlags>524304</baseFlags>
+						<parameter name="属性" id="1" flags="8589938704">
+							<parameter name="灯光" id="230" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="阴影" id="234" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="倒影" id="223" flags="8589971474">
+								<foldFlags>131087</foldFlags>
+							</parameter>
+							<parameter name="投影" id="208" flags="8589971474">
+								<foldFlags>131087</foldFlags>
+							</parameter>
+							<parameter name="四角" id="207" flags="8589973506">
+								<foldFlags>131087</foldFlags>
+							</parameter>
+							<parameter name="裁剪" id="216" flags="8589971458">
+								<foldFlags>131087</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="对象" id="2" flags="8589938704">
+							<parameter name="形状参数" id="301" flags="8589938704">
+								<parameter name="于点处发射" id="303" flags="8589934592" default="1" value="1"/>
+								<parameter name="点" id="304" flags="8589934592" default="5" value="5"/>
+								<parameter name="评级" id="359" flags="8589934594" default="5" value="5"/>
+								<parameter name="原点" id="360" flags="8590000130" default="14" value="14"/>
+								<parameter name="构件样式" id="361" flags="8590000130" default="0" value="0"/>
+								<parameter name="构件样式" id="332" flags="8590000128" default="1" value="1"/>
+								<parameter name="随机播放顺序" id="335" flags="8589934592" default="0" value="0"/>
+								<parameter name="偏移" id="336" flags="8589934592" default="0" value="0"/>
+								<parameter name="消振" id="351" flags="8589934594" default="0" value="0"/>
+								<parameter name="形状源" id="326" flags="8590000130" default="0" value="0"/>
+								<parameter name="图像源" id="327" flags="8590000130" default="0" value="0"/>
+							</parameter>
+							<parameter name="发射角度" id="310" flags="8589934594" default="0" value="6.2831853070000001"/>
+							<parameter name="发射经度" id="358" flags="8589934592" default="4.7123889803846897" value="0"/>
+							<parameter name="发射范围" id="311" flags="8589934594" default="6.2831853071795862" value="6.2831853071795862"/>
+							<parameter name="反转堆栈" id="348" flags="8589934592" default="0" value="0"/>
+							<parameter name="复制种子" id="349" flags="12884901890" default="13421" value="100024"/>
+							<parameter name="局部 3D" id="356" flags="8589934592" default="0" value="1"/>
+							<parameter name="面向摄像机" id="357" flags="8589934592" default="0" value="1"/>
+						</parameter>
+						<behavior name="笔压力" id="3001927586" factoryID="12">
+							<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-2002 120000 1 0"/>
+							<baseFlags>8589934608</baseFlags>
+						</behavior>
+						<behavior name="笔速度" id="3001927585" factoryID="3">
+							<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-2002 120000 1 0"/>
+							<baseFlags>8589934608</baseFlags>
+							<enabled>0</enabled>
+						</behavior>
+					</scenenode>
+					<isShapeStyle>0</isShapeStyle>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-2002 120000 1 0"/>
+					<foldFlags>1</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="变换" id="100" flags="8589938704">
+							<parameter name="位置" id="101" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="68.789736954072183"/>
+							</parameter>
+							<parameter name="缩放" id="105" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="1" value="1.0149504173265749"/>
+							</parameter>
+						</parameter>
+						<parameter name="倒影" id="223" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+						<parameter name="投影" id="208" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+						<parameter name="四角" id="207" flags="8589971458">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+						<parameter name="裁剪" id="216" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="形状" id="353" flags="8589938704">
+							<parameter name="动画" id="117" flags="8589934610" default="0" value="0">
+								<curve_X/>
+								<curve_Y/>
+								<closed>0</closed>
+							</parameter>
+							<parameter name="形状类型" id="100" flags="12884967442" default="4" value="4"/>
+							<parameter name="闭合" id="116" flags="8590000146" default="0" value="1"/>
+							<parameter name="圆度" id="144" flags="8589934610" default="0" value="0"/>
+							<parameter name="保留比例" id="152" flags="8589934610" default="1" value="1"/>
+							<parameter name="填充" id="113" flags="8589971472">
+								<foldFlags>131072</foldFlags>
+								<parameter name="渐变" id="104" flags="8589938706">
+									<foldFlags>15</foldFlags>
+									<parameter name="RGB" id="1" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="RGB1" id="3001927566" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="灰度系数" id="10" factoryID="32">
+													<flags>8589934610</flags>
+													<curve type="0" default="2.2000000000000002" value="2.2000000000000002"/>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+										<parameter name="RGB2" id="3001927567" factoryID="6">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="颜色" id="3" factoryID="21">
+												<flags>8589938704</flags>
+												<foldFlags>15</foldFlags>
+												<parameter name="红色" id="1" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="绿色" id="2" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="0">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="蓝色" id="3" factoryID="32">
+													<flags>8589934608</flags>
+													<curve type="1" default="0" value="1">
+														<min>-6</min>
+														<max>8</max>
+													</curve>
+												</parameter>
+												<parameter name="灰度系数" id="10" factoryID="32">
+													<flags>8589934610</flags>
+													<curve type="0" default="2.2000000000000002" value="2.2000000000000002"/>
+												</parameter>
+												<parameter name="色彩空间" id="11" factoryID="11">
+													<flags>8590000274</flags>
+													<curve type="0" default="3" value="3">
+														<min>0</min>
+														<max>4294967295</max>
+													</curve>
+												</parameter>
+											</parameter>
+										</parameter>
+									</parameter>
+									<parameter name="不透明度" id="2" flags="8589938704">
+										<flags>8589938704</flags>
+										<parameter name="不透明度1" id="3001927568" factoryID="5">
+											<flags>8589938704</flags>
+											<parameter name="位置" id="1" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="中间" id="2" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="0.5">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+											<parameter name="插值" id="100" factoryID="11">
+												<flags>8590000144</flags>
+												<curve type="0" default="2" value="2">
+													<min>0</min>
+													<max>4294967295</max>
+												</curve>
+											</parameter>
+											<parameter name="不透明度" id="3" factoryID="9">
+												<flags>8589934608</flags>
+												<curve type="1" default="0" value="1">
+													<min>0</min>
+													<max>1</max>
+												</curve>
+											</parameter>
+										</parameter>
+									</parameter>
+								</parameter>
+							</parameter>
+							<parameter name="外框" id="108" flags="8589938704">
+								<foldFlags>131072</foldFlags>
+								<parameter name="笔刷类型" id="139" flags="8606777360" default="0" value="2"/>
+								<parameter name="笔刷颜色" id="107" flags="12884906000">
+									<foldFlags>15</foldFlags>
+									<parameter name="红色" id="1" flags="8606711824">
+										<curve type="1" default="1" value="0.98484545946121216">
+											<numberOfKeypoints>3</numberOfKeypoints>
+											<min>-6</min>
+											<max>8</max>
+											<keypoint interpolation="1" flags="0">
+												<time>2002 120000 1 0</time>
+												<value>0.98484545946121216</value>
+												<outputTangentTime>1.1511499999999999</outputTangentTime>
+												<outputTangentValue>0.017984341627384329</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>416416 120000 1 0</time>
+												<value>0.32127344608306885</value>
+												<inputTangentTime>-1.1511499999999999</inputTangentTime>
+												<inputTangentValue>-0.028657591243176291</inputTangentValue>
+												<outputTangentTime>0.17795555560000001</outputTangentTime>
+												<outputTangentValue>0.0044301590338668003</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>480480 120000 1 0</time>
+												<value>1.0841087102890015</value>
+												<inputTangentTime>-0.17795555555555553</inputTangentTime>
+												<inputTangentValue>-0.002780188077663278</inputTangentValue>
+												<outputTangentTime>1.3291055555555555</outputTangentTime>
+												<outputTangentValue>0.020764529705047607</outputTangentValue>
+											</keypoint>
+										</curve>
+									</parameter>
+									<parameter name="绿色" id="2" flags="8606711824">
+										<curve type="1" default="1" value="0.99738115072250366">
+											<numberOfKeypoints>3</numberOfKeypoints>
+											<min>-6</min>
+											<max>8</max>
+											<keypoint interpolation="1" flags="0">
+												<time>2002 120000 1 0</time>
+												<value>0.99738115072250366</value>
+												<outputTangentTime>1.1511499999999999</outputTangentTime>
+												<outputTangentValue>-0.085640348899314586</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>416416 120000 1 0</time>
+												<value>0.52122998237609863</value>
+												<inputTangentTime>-1.1511499999999999</inputTangentTime>
+												<inputTangentValue>0.23817401052019904</inputTangentValue>
+												<outputTangentTime>0.17795555560000001</outputTangentTime>
+												<outputTangentValue>-0.036819170717632459</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>480480 120000 1 0</time>
+												<value>0.17240160703659058</value>
+												<inputTangentTime>-0.17795555555555553</inputTangentTime>
+												<inputTangentValue>0.013239087752551046</inputTangentValue>
+												<outputTangentTime>1.3291055555555555</outputTangentTime>
+												<outputTangentValue>-0.098879436651865632</outputTangentValue>
+											</keypoint>
+										</curve>
+									</parameter>
+									<parameter name="蓝色" id="3" flags="8606711824">
+										<curve type="1" default="1" value="0.67699825763702393">
+											<numberOfKeypoints>3</numberOfKeypoints>
+											<min>-6</min>
+											<max>8</max>
+											<keypoint interpolation="1" flags="0">
+												<time>2002 120000 1 0</time>
+												<value>0.67699825763702393</value>
+												<outputTangentTime>1.1511499999999999</outputTangentTime>
+												<outputTangentValue>-0.087865674844845559</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>416416 120000 1 0</time>
+												<value>1.0205956697463989</value>
+												<inputTangentTime>-1.1511499999999999</inputTangentTime>
+												<inputTangentValue>0.096820478409402416</inputTangentValue>
+												<outputTangentTime>0.17795555560000001</outputTangentTime>
+												<outputTangentValue>-0.01496741695591686</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>480480 120000 1 0</time>
+												<value>0.34163457155227661</value>
+												<inputTangentTime>-0.17795555555555553</inputTangentTime>
+												<inputTangentValue>0.013583099492922985</inputTangentValue>
+												<outputTangentTime>1.3291055555555555</outputTangentTime>
+												<outputTangentValue>-0.10144877433776855</outputTangentValue>
+											</keypoint>
+										</curve>
+									</parameter>
+								</parameter>
+								<parameter name="笔刷不透明度" id="142" flags="8606711824" default="1" value="0.43670000000000003"/>
+								<parameter name="宽度" id="105" flags="12901679120">
+									<curve type="1" default="1" value="3">
+										<numberOfKeypoints>10</numberOfKeypoints>
+										<min>3</min>
+										<max>4294967295</max>
+										<keypoint interpolation="1" flags="0">
+											<time>130130 120000 1 0</time>
+											<value>3</value>
+											<outputTangentTime>0.11122222222222222</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>170170 120000 1 0</time>
+											<value>18</value>
+											<inputTangentTime>-0.11122222222222222</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.10009999999999999</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>206206 120000 1 0</time>
+											<value>21</value>
+											<inputTangentTime>-0.10009999999999999</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.13346666666666665</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>254254 120000 1 0</time>
+											<value>46</value>
+											<inputTangentTime>-0.13346666679999999</inputTangentTime>
+											<inputTangentValue>-5.1428571479948317</inputTangentValue>
+											<outputTangentTime>0.022244444400000001</outputTangentTime>
+											<outputTangentValue>0.85714285543028845</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>262262 120000 1 0</time>
+											<value>39</value>
+											<inputTangentTime>-0.022244444444444442</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.12234444444444445</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>306306 120000 1 0</time>
+											<value>49</value>
+											<inputTangentTime>-0.12234444444444445</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.10566111111111109</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>344344 120000 1 0</time>
+											<value>41</value>
+											<inputTangentTime>-0.10566111111111109</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.13346666666666668</outputTangentTime>
+											<outputTangentValue>1</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="1">
+											<time>392392 120000 1 0</time>
+											<value>72</value>
+											<inputTangentTime>-0.13346666666666668</inputTangentTime>
+											<inputTangentValue>-1</inputTangentValue>
+											<outputTangentTime>0.094538888888888895</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>426426 120000 1 0</time>
+											<value>76</value>
+											<inputTangentTime>-0.094538888888888895</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.13902777777777778</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>476476 120000 1 0</time>
+											<value>100</value>
+											<inputTangentTime>-0.13902777777777778</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.13902777777777778</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+								</parameter>
+								<parameter name="箭头长度" id="132" flags="8589934610" default="3" value="3"/>
+								<parameter name="箭头宽度" id="133" flags="8589934610" default="3" value="3"/>
+								<parameter name="第一个点偏移" id="126" flags="8606711824" default="0" value="0"/>
+								<parameter name="上一个点偏移" id="127" flags="8606711824">
+									<curve type="1" default="1" value="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint flags="0">
+											<time>0 153600 1 0</time>
+											<value>0</value>
+										</keypoint>
+										<keypoint flags="0">
+											<time>179200 153600 1 0</time>
+											<value>1</value>
+										</keypoint>
+									</curve>
+								</parameter>
+								<parameter name="使用普通笔画" id="128" flags="8589934610" default="0" value="0"/>
+								<parameter name="偏移" id="131" flags="8589934610" default="0" value="0"/>
+								<parameter name="笔画上的压力" id="136" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+								<parameter name="笔画上的笔速" id="138" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>笔画长度</rangeName>
+								</parameter>
+							</parameter>
+							<parameter name="羽化" id="102" flags="8606744592" default="0" value="0"/>
+							<parameter name="散开" id="158" flags="8606744592" default="0" value="0"/>
+							<parameter name="曲率" id="159" flags="12901679120" default="1" value="1"/>
+							<parameter name="半径" id="160" flags="8589938704">
+								<foldFlags>8388623</foldFlags>
+								<parameter name="X" id="1" flags="12901679120" default="233.37369537353516" value="233.37369537353516"/>
+								<parameter name="Y" id="2" flags="12901679120" default="242.00868988037109" value="242.00868988037109"/>
+							</parameter>
+							<parameter name="已完成" id="157" flags="8589934610" default="0" value="1"/>
+							<parameter name="固定羽化" id="165" flags="8606810128" default="0" value="0"/>
+						</parameter>
+					</parameter>
+					<behavior name="速率" id="3001926850" factoryID="18">
+						<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-2002 120000 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<parameter name="Affecting Object (Hidden)" id="199" flags="77326254098" default="0" value="3001926293"/>
+						<parameter name="速率" id="200" flags="8606711824" default="0" value="0.16059999999999999"/>
+						<parameter name="曲率" id="201" flags="8606711824" default="0" value="0.44490000000000002"/>
+						<parameter name="结尾偏移" id="202" flags="8606711808" default="0" value="22"/>
+					</behavior>
+					<behavior name="绘制外框" id="3001926373" factoryID="23">
+						<timing in="124124 120000 1 0" out="718718 120000 1 0" offset="-2002 120000 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<parameter name="速度" id="204" flags="8606777360" default="0" value="6"/>
+						<parameter name="自定速度" id="205" flags="8606744592">
+							<curve type="1" default="0" value="0" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<min>0</min>
+								<max>1</max>
+								<keypoint flags="0">
+									<time>126126 120000 1 0</time>
+									<value>0</value>
+									<outputTangentTime>1.6480552486187843</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+								<keypoint flags="0">
+									<time>5995215746 1000000000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-1.6480552486187843</inputTangentTime>
+									<inputTangentValue>-0.33333333333333331</inputTangentValue>
+									<outputTangentTime>1.6480552486187843</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+					</behavior>
+				</scenenode>
+				<scenenode name="效果源" id="3001926097" factoryID="14" version="5">
+					<validTracks>1</validTracks>
+					<mask name="圆形遮罩" id="3001926305" factoryID="16">
+						<isShapeStyle>0</isShapeStyle>
+						<aspectRatio>1</aspectRatio>
+						<flags>8</flags>
+						<timing in="0 120000 1 0" out="718718 120000 1 0" offset="0 1 1 0"/>
+						<foldFlags>0</foldFlags>
+						<baseFlags>16</baseFlags>
+						<parameter name="属性" id="1" flags="8589938704">
+							<parameter name="变换" id="100" flags="8589938704">
+								<parameter name="位置" id="101" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="X" id="1" flags="8606711824" default="0" value="72.992469787630895"/>
+									<parameter name="Y" id="2" flags="8606711824" default="0" value="-10.666775407688675"/>
+									<parameter name="Z" id="3" flags="8589934610" default="0" value="0"/>
+								</parameter>
+								<parameter name="缩放" id="105" flags="8589938704">
+									<foldFlags>15</foldFlags>
+									<parameter name="Y" id="2" flags="8606711824" default="1" value="0.99629838162365025"/>
+									<parameter name="Z" id="3" flags="8589934610" default="1" value="1"/>
+								</parameter>
+							</parameter>
+							<parameter name="灯光" id="230" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="阴影" id="234" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="倒影" id="223" flags="8589971474">
+								<foldFlags>131087</foldFlags>
+							</parameter>
+							<parameter name="裁剪" id="216" flags="8589971474">
+								<foldFlags>131087</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="对象" id="2" flags="8589938704">
+							<parameter name="形状" id="353" flags="8589938704">
+								<parameter name="动画" id="117" flags="8589934610" default="0" value="0">
+									<curve_X/>
+									<curve_Y/>
+									<closed>0</closed>
+								</parameter>
+								<parameter name="形状类型" id="100" flags="12884967442" default="4" value="4"/>
+								<parameter name="闭合" id="116" flags="8590000146" default="0" value="1"/>
+								<parameter name="圆度" id="144" flags="8589934610" default="0" value="0"/>
+								<parameter name="保留比例" id="152" flags="8589934610" default="1" value="1"/>
+								<parameter name="填充" id="113" flags="8589938706">
+									<foldFlags>131072</foldFlags>
+								</parameter>
+								<parameter name="外框" id="108" flags="8589971474">
+									<foldFlags>131072</foldFlags>
+									<parameter name="笔画上的压力" id="136" flags="8724348946">
+										<curve type="1" default="1" value="1" round="0">
+											<numberOfKeypoints>2</numberOfKeypoints>
+											<min>0</min>
+											<max>1</max>
+											<keypoint interpolation="1" flags="0">
+												<time>0 1 1 0</time>
+												<value>1</value>
+												<outputTangentTime>0.33333333333333331</outputTangentTime>
+												<outputTangentValue>0</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>1 1 1 0</time>
+												<value>1</value>
+												<inputTangentTime>-0.33333333333333331</inputTangentTime>
+												<inputTangentValue>0</inputTangentValue>
+												<outputTangentTime>0.33333333333333331</outputTangentTime>
+												<outputTangentValue>-0</outputTangentValue>
+											</keypoint>
+										</curve>
+										<rangeName>笔画长度</rangeName>
+									</parameter>
+									<parameter name="笔画上的笔速" id="138" flags="8724348946">
+										<curve type="1" default="1" value="1" round="0">
+											<numberOfKeypoints>2</numberOfKeypoints>
+											<min>0</min>
+											<max>1</max>
+											<keypoint interpolation="1" flags="0">
+												<time>0 1 1 0</time>
+												<value>1</value>
+												<outputTangentTime>0.33333333333333331</outputTangentTime>
+												<outputTangentValue>0</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>1 1 1 0</time>
+												<value>1</value>
+												<inputTangentTime>-0.33333333333333331</inputTangentTime>
+												<inputTangentValue>0</inputTangentValue>
+												<outputTangentTime>0.33333333333333331</outputTangentTime>
+												<outputTangentValue>-0</outputTangentValue>
+											</keypoint>
+										</curve>
+										<rangeName>笔画长度</rangeName>
+									</parameter>
+								</parameter>
+								<parameter name="曲率" id="159" flags="12901679120" default="1" value="1"/>
+								<parameter name="半径" id="160" flags="8589938704">
+									<foldFlags>8388623</foldFlags>
+									<parameter name="X" id="1" flags="12901679120">
+										<curve type="1" default="236.84585571289884" value="806">
+											<numberOfKeypoints>3</numberOfKeypoints>
+											<min>0</min>
+											<keypoint interpolation="1" flags="0">
+												<time>0 1 1 0</time>
+												<value>785</value>
+												<inputTangentTime>-0.11678333333333332</inputTangentTime>
+												<inputTangentValue>0.11333333333333445</inputTangentValue>
+												<outputTangentTime>0.34478888888888898</outputTangentTime>
+												<outputTangentValue>-0.33460317460317801</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>124124 120000 1 0</time>
+												<value>250</value>
+												<inputTangentTime>-0.34478888888888898</inputTangentTime>
+												<inputTangentValue>0.52991452991453003</inputTangentValue>
+												<outputTangentTime>0.0055611111111111113</outputTangentTime>
+												<outputTangentValue>-0.33333333333333331</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>126126 120000 1 0</time>
+												<value>231</value>
+												<inputTangentTime>-0.0055611111111111113</inputTangentTime>
+												<inputTangentValue>0.33333333333333331</inputTangentValue>
+												<outputTangentTime>0.0055611111111111113</outputTangentTime>
+												<outputTangentValue>-0.33333333333333331</outputTangentValue>
+											</keypoint>
+										</curve>
+									</parameter>
+									<parameter name="Y" id="2" flags="12901679120">
+										<curve type="1" default="215.62175750733098" value="798.46679728402751">
+											<numberOfKeypoints>3</numberOfKeypoints>
+											<min>0</min>
+											<keypoint interpolation="1" flags="0">
+												<time>0 1 1 0</time>
+												<value>777.66307179647822</value>
+												<inputTangentTime>-0.11678333333333332</inputTangentTime>
+												<inputTangentValue>0.11227407405979761</inputTangentValue>
+												<outputTangentTime>0.34478888888888898</outputTangentTime>
+												<outputTangentValue>-0.33147583770035494</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>124124 120000 1 0</time>
+												<value>247.66339866129906</value>
+												<inputTangentTime>-0.34478888888888898</inputTangentTime>
+												<inputTangentValue>0.52496173391455558</inputTangentValue>
+												<outputTangentTime>0.0055611111111111113</outputTangentTime>
+												<outputTangentValue>-0.33021786488173649</outputTangentValue>
+											</keypoint>
+											<keypoint interpolation="1" flags="0">
+												<time>126126 120000 1 0</time>
+												<value>228.84098036304042</value>
+												<inputTangentTime>-0.0055611111111111113</inputTangentTime>
+												<inputTangentValue>0.33021786488173649</inputTangentValue>
+												<outputTangentTime>0.0055611111111111113</outputTangentTime>
+												<outputTangentValue>-0.33021786488173649</outputTangentValue>
+											</keypoint>
+										</curve>
+									</parameter>
+								</parameter>
+								<parameter name="是遮罩" id="154" flags="8589934610" default="0" value="1"/>
+								<parameter name="遮罩混合模式" id="103" flags="8606777360" default="0" value="0"/>
+								<parameter name="反转遮罩" id="115" flags="8606711824" default="0" value="0"/>
+								<parameter name="遮罩颜色" id="143" flags="8606777360" default="0" value="0"/>
+								<parameter name="已完成" id="157" flags="8589934610" default="0" value="1"/>
+							</parameter>
+						</parameter>
+					</mask>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="0 120000 1 0" out="718718 120000 1 0" offset="0 1 1 0"/>
+					<foldFlags>16384</foldFlags>
+					<baseFlags>524304</baseFlags>
+					<parameter name="属性" id="1" flags="8589938704">
+						<parameter name="变换" id="100" flags="8589938704">
+							<parameter name="位置" id="101" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8606711824" default="0" value="0.49999999999936051"/>
+								<parameter name="Y" id="2" flags="8606711824" default="0" value="0.50000000000122924"/>
+							</parameter>
+						</parameter>
+						<parameter name="电影效果" id="344" flags="8589938706">
+							<foldFlags>131076</foldFlags>
+							<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+							<parameter name="焦点" id="348" flags="8589938706">
+								<foldFlags>15</foldFlags>
+							</parameter>
+						</parameter>
+						<parameter name="媒体" id="324" flags="8589938704">
+							<foldFlags>4</foldFlags>
+							<parameter name="源媒体" id="300" flags="81621221392" default="3001926271" value="3001926271"/>
+							<parameter name="源媒体" id="325" flags="8590000146"/>
+						</parameter>
+						<parameter name="页码" id="301" flags="8589934610" default="1" value="1"/>
+						<parameter name="重新定时值" id="304" flags="8590066066" default="1" value="1"/>
+						<parameter name="重新定时值缓存" id="319" flags="8590065810" default="1" value="1"/>
+					</parameter>
+					<parameter name="对象" id="2" flags="8589938704">
+						<parameter name="拖放区" id="311" flags="8589934738" default="0" value="1"/>
+						<parameter name="类型" id="321" flags="8590000146" default="0" value="3"/>
+						<parameter name="已替换" id="312" flags="8589934610" default="0" value="1"/>
+						<parameter name="移动" id="326" flags="77309415440">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="缩放" id="327" flags="77309415440">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="填充不透明" id="328" flags="8606711824" default="0" value="0"/>
+						<parameter name="填充颜色" id="329" flags="8589938704">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="清除" id="315" flags="8606777360" default="0" value="0"/>
+						<parameter name="宽度" id="313" flags="8589934610" default="1" value="1280"/>
+						<parameter name="高度" id="314" flags="8589934610" default="1" value="720"/>
+					</parameter>
+				</scenenode>
+				<aspectRatio>1</aspectRatio>
+				<flags>0</flags>
+				<timing in="0 120000 1 0" out="718718 120000 1 0" offset="0 1 1 0"/>
+				<foldFlags>1</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="属性" id="1" flags="8589938704">
+					<parameter name="变换" id="100" flags="8589938704">
+						<parameter name="位置" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="0.99999999999992895"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="0.49999999999991473"/>
+						</parameter>
+					</parameter>
+					<parameter name="阴影" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="投影" id="208" flags="8589973522">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="四角" id="207" flags="8589973506">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="裁剪" id="216" flags="8589973522">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="对象" id="2" flags="8589938704">
+					<parameter name="类型" id="307" flags="8606711824" default="0" value="1"/>
+					<parameter name="固定分辨率" id="301" flags="8606713874" default="0" value="0"/>
+					<parameter name="固定宽度" id="302" flags="12901679126" default="1280" value="1280"/>
+					<parameter name="固定高度" id="303" flags="12901679126" default="720" value="720"/>
+					<parameter name="光圈宽度" id="312" flags="12884901906" default="1280" value="1280"/>
+					<parameter name="光圈高度" id="313" flags="12884901906" default="720" value="720"/>
+				</parameter>
+			</layer>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 153600 1 0" out="718718 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>1</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="变换" id="100" flags="8589938704">
+					<parameter name="位置" id="101" flags="8589938705">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>1</numberOfKeypoints>
+								<keypoint flags="0">
+									<time>404404 120000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint flags="0">
+									<time>404404 120000 1 0</time>
+									<value>0</value>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+								<keypoint flags="0">
+									<time>478478 120000 1 0</time>
+									<value>154</value>
+									<inputTangentTime>-0.20576111111111112</inputTangentTime>
+									<inputTangentValue>-0.33333333333333331</inputTangentValue>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>0.33333333333333331</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Z" id="3" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>1</numberOfKeypoints>
+								<keypoint flags="0">
+									<time>404404 120000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="缩放" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>404404 120000 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>-0.0066666666666666714</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>478478 120000 1 0</time>
+									<value>0.53000000000000003</value>
+									<inputTangentTime>-0.20576111111111112</inputTangentTime>
+									<inputTangentValue>0.0066666666666666714</inputTangentValue>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>-0.0066666666666666714</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>404404 120000 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>-0.0066666666666666714</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>478478 120000 1 0</time>
+									<value>0.53000000000000003</value>
+									<inputTangentTime>-0.20576111111111112</inputTangentTime>
+									<inputTangentValue>0.0066666666666666714</inputTangentValue>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>-0.0066666666666666714</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Z" id="3" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>404404 120000 1 0</time>
+									<value>1</value>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>-0.0066666666666666714</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>478478 120000 1 0</time>
+									<value>0.53000000000000003</value>
+									<inputTangentTime>-0.20576111111111112</inputTangentTime>
+									<inputTangentValue>0.0066666666666666714</inputTangentValue>
+									<outputTangentTime>0.20576111111111112</outputTangentTime>
+									<outputTangentValue>-0.0066666666666666714</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="投影" id="208" flags="8589973522">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="四角" id="207" flags="8589973506">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="裁剪" id="216" flags="8589973522">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="类型" id="307" flags="8606711824" default="0" value="1"/>
+				<parameter name="固定分辨率" id="301" flags="8606713874" default="0" value="0"/>
+				<parameter name="固定宽度" id="302" flags="12901679126" default="1280" value="1280"/>
+				<parameter name="固定高度" id="303" flags="12901679126" default="720" value="720"/>
+				<parameter name="光圈宽度" id="312" flags="12884901906" default="1280" value="1280"/>
+				<parameter name="光圈高度" id="313" flags="12884901906" default="720" value="720"/>
+			</parameter>
+		</layer>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="0 153600 1 0" out="718718 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704">
+			<parameter name="变换" id="100" flags="8589938704">
+				<parameter name="位置" id="101" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint flags="0">
+								<time>0 153600 1 0</time>
+								<value>0</value>
+								<outputTangentTime>1.6738944444444441</outputTangentTime>
+								<outputTangentValue>-1.1012501716613106</outputTangentValue>
+							</keypoint>
+							<keypoint flags="0">
+								<time>602602 120000 1 0</time>
+								<value>-6.6075010299678638</value>
+								<inputTangentTime>-1.6738944444444441</inputTangentTime>
+								<inputTangentValue>1.1012501716613106</inputTangentValue>
+								<outputTangentTime>1.6738944444444441</outputTangentTime>
+								<outputTangentValue>1.8947806286936004e-14</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Y" id="2" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint flags="0">
+								<time>0 153600 1 0</time>
+								<value>0</value>
+								<outputTangentTime>1.6738944444444441</outputTangentTime>
+								<outputTangentValue>-0.19249979654947913</outputTangentValue>
+							</keypoint>
+							<keypoint flags="0">
+								<time>602602 120000 1 0</time>
+								<value>-1.154998779296875</value>
+								<inputTangentTime>-1.6738944444444441</inputTangentTime>
+								<inputTangentValue>0.19249979654947913</inputTangentValue>
+								<outputTangentTime>1.6738944444444441</outputTangentTime>
+								<outputTangentValue>-0.38499959309895826</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Z" id="3" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint flags="0">
+								<time>0 153600 1 0</time>
+								<value>0</value>
+								<outputTangentTime>1.6738944444444441</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint flags="0">
+								<time>602602 120000 1 0</time>
+								<value>0</value>
+								<inputTangentTime>-1.6738944444444441</inputTangentTime>
+								<inputTangentValue>-0</inputTangentValue>
+								<outputTangentTime>1.6738944444444441</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+				<parameter name="旋转" id="109" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Y" id="2" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Z" id="3" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+				<parameter name="缩放" id="105" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="8606711824">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>1</value>
+								<outputTangentTime>0.16683333333333333</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>658658 120000 1 0</time>
+								<value>1</value>
+								<inputTangentTime>-0.16683333333333333</inputTangentTime>
+								<inputTangentValue>0</inputTangentValue>
+								<outputTangentTime>0.16683333333333333</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Y" id="2" flags="8606711824">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>1</value>
+								<outputTangentTime>0.16683333333333333</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>658658 120000 1 0</time>
+								<value>1</value>
+								<inputTangentTime>-0.16683333333333333</inputTangentTime>
+								<inputTangentValue>0</inputTangentValue>
+								<outputTangentTime>0.16683333333333333</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Z" id="3" flags="8606711824">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>1</value>
+								<outputTangentTime>0.16683333333333333</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>658658 120000 1 0</time>
+								<value>1</value>
+								<inputTangentTime>-0.16683333333333333</inputTangentTime>
+								<inputTangentValue>0</inputTangentValue>
+								<outputTangentTime>0.16683333333333333</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+				<parameter name="修剪" id="106" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Y" id="2" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+				<parameter name="锚点" id="107" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="X" id="1" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Y" id="2" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Z" id="3" flags="8606711824">
+						<curve type="1" default="0" value="0">
+							<numberOfKeypoints>1</numberOfKeypoints>
+							<keypoint flags="0">
+								<time>598598 120000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+			</parameter>
+			<parameter name="混合" id="200" flags="8589938704">
+				<parameter name="不透明度" id="202" flags="8606713872">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>3</numberOfKeypoints>
+						<min>0</min>
+						<max>1</max>
+						<keypoint interpolation="1" flags="0">
+							<time>0 153600 1 0</time>
+							<value>1</value>
+							<outputTangentTime>1.6627722222222223</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="0">
+							<time>598598 120000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-1.6627722223999999</inputTangentTime>
+							<inputTangentValue>1.1076288036093729e-14</inputTangentValue>
+							<outputTangentTime>0.16683333319999999</outputTangentTime>
+							<outputTangentValue>-0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="0">
+							<time>658658 120000 1 0</time>
+							<value>0</value>
+							<inputTangentTime>-0.16683333333333333</inputTangentTime>
+							<inputTangentValue>0</inputTangentValue>
+							<outputTangentTime>1.8296055555555557</outputTangentTime>
+							<outputTangentValue>-0</outputTangentValue>
+						</keypoint>
+					</curve>
+				</parameter>
+			</parameter>
+			<parameter name="阴影" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="投影" id="208" flags="8589973522">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+			<parameter name="四角" id="207" flags="8589973506">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+			<parameter name="裁剪" id="216" flags="8589973523">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="对象" id="2" flags="8589938704">
+			<parameter name="类型" id="307" flags="8606711824" default="0" value="1"/>
+			<parameter name="固定分辨率" id="301" flags="8606713874" default="0" value="0"/>
+			<parameter name="固定宽度" id="302" flags="12901679126" default="1280" value="1280"/>
+			<parameter name="固定高度" id="303" flags="12901679126" default="720" value="720"/>
+			<parameter name="光圈宽度" id="312" flags="12884901906" default="1280" value="1280"/>
+			<parameter name="光圈高度" id="313" flags="12884901906" default="720" value="720"/>
+		</parameter>
+	</layer>
+
+	<footage name="媒体层" id="3001926096">
+		<clip name="InkExpand01" id="3001927587">
+			<relativeURL>Media/InkExpand01.mov</relativeURL>
+			<missingWidth>256</missingWidth>
+			<missingHeight>256</missingHeight>
+			<missingDuration>1.5682333333333334</missingDuration>
+			<creationDuration>94</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 153600 1 0" out="5951936 3840000 1 0" offset="0 153600 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Alpha 类型" id="100" flags="8589938704">
+					<parameter name="Alpha 类型" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="像素宽高比" id="104" flags="8589934592" default="1" value="1"/>
+				<parameter name="场顺序" id="105" flags="8590000128" default="0" value="1"/>
+				<parameter name="帧速率" id="107" flags="8589934592" default="0" value="29.970029970029969"/>
+				<parameter name="固定宽度" id="114" flags="8589934594" default="256" value="256"/>
+				<parameter name="固定高度" id="115" flags="8589934594" default="256" value="256"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="灰度系数" id="124" flags="12884901888" default="2.2000000476837158" value="1.8"/>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="0"/>
+			</parameter>
+		</clip>
+		<clip name="Light Streaks 1" id="3001927524">
+			<relativeURL>Media/Light%20Streaks%201.mov</relativeURL>
+			<missingWidth>720</missingWidth>
+			<missingHeight>576</missingHeight>
+			<missingDuration>0.40000000000000002</missingDuration>
+			<creationDuration>23</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 120000 1 0" out="46046 120000 1 0" offset="0 120000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Alpha 类型" id="100" flags="8589938704">
+					<parameter name="Alpha 颜色" id="102" flags="8589938688">
+						<foldFlags>15</foldFlags>
+						<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+					</parameter>
+				</parameter>
+				<parameter name="像素宽高比" id="104" flags="8589934592" default="1" value="1.0667"/>
+				<parameter name="帧速率" id="107" flags="8589934592" default="0" value="25"/>
+				<parameter name="固定宽度" id="114" flags="8589934594" default="720" value="720"/>
+				<parameter name="固定高度" id="115" flags="8589934594" default="576" value="576"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+					<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+				</parameter>
+				<parameter name="灰度系数" id="124" flags="8589934594" default="1" value="1.8"/>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="0"/>
+			</parameter>
+		</clip>
+		<clip name="s42012b" id="3001927458">
+			<relativeURL>Media/Sliver03.png</relativeURL>
+			<missingWidth>45</missingWidth>
+			<missingHeight>240</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 120000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Alpha 类型" id="100" flags="8589938704">
+					<parameter name="Alpha 类型" id="101" flags="8590000128" default="0" value="2"/>
+					<parameter name="Alpha 颜色" id="102" flags="8589938688">
+						<foldFlags>15</foldFlags>
+						<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+					</parameter>
+				</parameter>
+				<parameter name="像素宽高比" id="104" flags="8589934592" default="1" value="1"/>
+				<parameter name="帧速率" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="固定宽度" id="114" flags="12884901888" default="45" value="45"/>
+				<parameter name="固定高度" id="115" flags="12884901888" default="240" value="240"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+					<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+				</parameter>
+				<parameter name="灰度系数" id="124" flags="8589934592" default="1" value="1.8"/>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="1"/>
+			</parameter>
+		</clip>
+		<clip name="Telophase Cell" id="3001926612">
+			<relativeURL>Media/Telophase%20Cell.png</relativeURL>
+			<missingWidth>512</missingWidth>
+			<missingHeight>512</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 153600 1 0"/>
+			<foldFlags>1</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Alpha 类型" id="100" flags="8589938704">
+					<parameter name="Alpha 类型" id="101" flags="8590000128" default="0" value="1"/>
+					<parameter name="Alpha 颜色" id="102" flags="8589938688">
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" flags="8589934608" default="0" value="1"/>
+						<parameter name="绿色" id="2" flags="8589934608" default="0" value="1"/>
+						<parameter name="蓝色" id="3" flags="8589934608" default="0" value="1"/>
+					</parameter>
+				</parameter>
+				<parameter name="像素宽高比" id="104" flags="8589934592" default="1" value="1"/>
+				<parameter name="帧速率" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="固定宽度" id="114" flags="12884901888" default="512" value="512"/>
+				<parameter name="固定高度" id="115" flags="12884901888" default="512" value="512"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="灰度系数" id="124" flags="12884901888" default="2.2000000476837158" value="1.8"/>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="1"/>
+			</parameter>
+		</clip>
+		<clip name="s2209_hvoxldabs_export" id="3001926544">
+			<relativeURL>Media/InkSponge.mov</relativeURL>
+			<missingWidth>288</missingWidth>
+			<missingHeight>432</missingHeight>
+			<missingDuration>0.33366666666666667</missingDuration>
+			<creationDuration>20</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 120000 1 0" out="450450 120000 1 0" offset="0 120000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Alpha 类型" id="100" flags="8589938704">
+					<parameter name="Alpha 类型" id="101" flags="8590000128" default="0" value="1"/>
+					<parameter name="Alpha 颜色" id="102" flags="8589938688">
+						<foldFlags>15</foldFlags>
+						<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+					</parameter>
+				</parameter>
+				<parameter name="像素宽高比" id="104" flags="8606711808" default="1" value="1"/>
+				<parameter name="帧速率" id="107" flags="8606711808" default="0" value="29.970029970029969"/>
+				<parameter name="固定宽度" id="114" flags="8589934594" default="288" value="288"/>
+				<parameter name="固定高度" id="115" flags="8589934594" default="432" value="432"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+					<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="2"/>
+				</parameter>
+				<parameter name="灰度系数" id="124" flags="8589934592" default="1" value="1.8"/>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="0"/>
+			</parameter>
+		</clip>
+		<clip name="InkExpand06" id="3001926369">
+			<relativeURL>Media/InkExpand06.mov</relativeURL>
+			<missingWidth>256</missingWidth>
+			<missingHeight>256</missingHeight>
+			<missingDuration>3.4701333333333335</missingDuration>
+			<creationDuration>208</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 153600 1 0" out="13247936 3840000 1 0" offset="0 153600 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Alpha 类型" id="100" flags="8589938704">
+					<parameter name="Alpha 类型" id="101" flags="8590000128" default="0" value="2"/>
+				</parameter>
+				<parameter name="像素宽高比" id="104" flags="8589934592" default="1" value="1"/>
+				<parameter name="场顺序" id="105" flags="8590000128" default="0" value="2"/>
+				<parameter name="帧速率" id="107" flags="8589934592" default="0" value="29.970029970029969"/>
+				<parameter name="固定宽度" id="114" flags="8589934594" default="256" value="256"/>
+				<parameter name="固定高度" id="115" flags="8589934594" default="256" value="256"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="灰度系数" id="124" flags="12884901888" default="2.2000000476837158" value="1.8"/>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="0"/>
+			</parameter>
+		</clip>
+		<clip name="demo" id="3001926271">
+			<relativeURL>Media/demo.jpg</relativeURL>
+			<missingWidth>580</missingWidth>
+			<missingHeight>312</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="像素宽高比" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="帧速率" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="固定宽度" id="114" flags="12884901888" default="580" value="580"/>
+				<parameter name="固定高度" id="115" flags="12884901888" default="312" value="312"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="1"/>
+			</parameter>
+		</clip>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="450450 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704"/>
+		<parameter name="对象" id="2" flags="8589938704"/>
+	</footage>
+</scene>
+
+</ozml>

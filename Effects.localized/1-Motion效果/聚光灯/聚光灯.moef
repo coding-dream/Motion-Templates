@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="5.13">
+
+<displayversion>5.6</displayversion>
+
+<factory id="1" uuid="0e8d443513b611d89395000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="2" uuid="10405f52139811d8b4db000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="3" uuid="27f3ee8b229211d7925a00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="4" uuid="402246385249454b90e08b2ee1b6bf06">
+	<description>绑定</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="46c844a813d311d8a438000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="6" uuid="558f10b4a1c011d7998900039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="7" uuid="615c4bf6406511d88802000a95af90f2">
+	<description>发生器</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="8" uuid="65cb4dc9d4504fa281921f5f751fba06">
+	<description>小组件</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="9" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>图像</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="10" uuid="68fba2c1aa094655bf4b81587efec626">
+	<description>链接</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="11" uuid="69f1e0a52e7911d8b19a000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="12" uuid="712462a4323911d78f8400039389b702">
+	<description>形状</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="13" uuid="7644521e2e7911d891a6000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="7d468273c013498e9806a0d7bc32fddf">
+	<description>项目</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="15" uuid="84414060b0fd11d99bb5000a957d5fce">
+	<description>克隆层</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="16" uuid="878a64bd193011d8bac3000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="17" uuid="caf198bdb7c34dccb8af6ebb4f382ae3">
+	<description>复制器</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="18" uuid="dab733bb21ab47e08874d786d2fdddc9">
+	<description>复制器单元</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="19" uuid="dbca752470fd11d7980100039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="20" uuid="dd0036f96c9e4bfdadb82f71fbf5c9d8">
+	<description>绑定行为</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="21" uuid="deca4859b16011d7a12d0003936f6f92">
+	<description>ProPlugin 滤镜</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="22" uuid="e35c74f01d5042f6b468eb530169bfb7">
+	<description>小组件</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="23" uuid="f32e7a31146f11d8a20a000a95af9f7e">
+	<description>渐变</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="24" uuid="fdc1944b229111d7b1c300039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<template>
+	<flags>1</flags>
+</template>
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolution>0</dynamicResolution>
+	<viewmode>0</viewmode>
+	<overlayOptions>125708</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>活跃的摄像机</cameraName>
+	<mirrorHMD>0</mirrorHMD>
+	<panZoom camera="0" zoom="0.6518518328666687" panX="167" panY="5" mode="2" centered="1"/>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>1</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.7999999523162842</mediaVerticalZoom>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>0</displayAudio>
+	<displayKeyframes>0</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1</videoVerticalZoom>
+	<audioVerticalZoom>1</audioVerticalZoom>
+	<displayRange in="-43043 65900 3 0" out="702702 65900 3 0"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>0</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>0</displayAudioWaveform>
+	<lockKeyframesInTime>0</lockKeyframesInTime>
+	<displayRange in="-43043 65900 3 0" out="702702 65900 3 0"/>
+	<currentviewvolume originx="-0.65315629742033388" originy="-62.5" width="11.316312594840667" height="125"/>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/100/101" state="1"/>
+	<collapseState id="./1/100/105" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+	<collapseState id="./1/324" state="0"/>
+	<collapseState id="./1/344" state="1"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>1920</width>
+		<height>1080</height>
+		<duration>300</duration>
+		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
+		<frameRate>30</frameRate>
+		<NTSC>1</NTSC>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<workingGamut>0</workingGamut>
+		<viewGamut>-1</viewGamut>
+		<optimizeForDisplay>0</optimizeForDisplay>
+		<backgroundColor red="0" green="0" blue="0" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>0</fieldRenderingMode>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<sharpScaling>0</sharpScaling>
+		<startTimecode>0</startTimecode>
+		<presetPath></presetPath>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterColorSpaceID>3</parameterColorSpaceID>
+		<savePreviewMovie>1</savePreviewMovie>
+		<Object3DEnvironments>100</Object3DEnvironments>
+		<introducesAlpha>0</introducesAlpha>
+	</sceneSettings>
+	<publishSettings>
+		<version>2</version>
+		<target object="987121781" channel="./2/100" name="Amount"/>
+		<target object="987158359" channel="./2/100" name="Feather"/>
+		<target object="987121743" channel="./2/100" name="Contrast"/>
+		<target object="987122479" channel="./3" name="Radius"/>
+		<target object="987122479" channel="./1" name="Center"/>
+	</publishSettings>
+	<currentFrame>628628 120000 1 0</currentFrame>
+	<activeLayer>987121450</activeLayer>
+	<timeRange offset="0 1 1 0" duration="76876800 7680000 1 0"/>
+	<playRange offset="0 1 1 0" duration="76876800 7680000 1 0"/>
+	<flags>1</flags>
+	<audioTracks>0</audioTracks>
+	<timemarkerset>
+		<timemarker>
+			<inpoint>256256 7680000 1 0</inpoint>
+			<color>1</color>
+			<type>7</type>
+		</timemarker>
+		<timemarker>
+			<inpoint>37157120 7680000 1 0</inpoint>
+			<color>1</color>
+			<type>8</type>
+		</timemarker>
+	</timemarkerset>
+	<guideset/>
+	<curvesets selected="1"/>
+	<scenenode name="Project" id="987121448" factoryID="14" version="5">
+		<scenenode name="Widget" id="987121449" factoryID="8" version="5">
+			<snapshot>2</snapshot>
+			<snapshot>3</snapshot>
+			<snapshot>1</snapshot>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="选项" id="103" flags="8589938688"/>
+				<parameter name="Hidden" id="102" flags="12884901904" default="0" value="1"/>
+				<parameter name="快照" id="101" flags="8589938706">
+					<parameter name="9:16" id="2" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0.5625"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="1:1" id="3" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="1"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="16:9" id="1" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="1.7777777777777777"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+				</parameter>
+				<parameter name="小组件" id="100" flags="12884901904" default="1.7777777777777777" value="1.7777777777777777"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>16</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704"/>
+		<parameter name="对象" id="2" flags="8589938705"/>
+	</scenenode>
+	<scenenode name="Rig" id="987121742" factoryID="4" version="5">
+		<scenenode name="Feather" id="987158359" factoryID="22" version="5">
+			<affecting>3</affecting>
+			<snapshot>1</snapshot>
+			<snapshot>3</snapshot>
+			<snapshot>2</snapshot>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>16</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="选项" id="103" flags="8589938688">
+					<parameter name="最小范围" id="104" flags="8606711824" default="0" value="-10"/>
+					<parameter name="最大范围" id="105" flags="8606711824" default="100" value="100"/>
+				</parameter>
+				<parameter name="Hidden" id="102" flags="12901679120" default="0" value="0"/>
+				<parameter name="快照" id="101" flags="8589938706">
+					<parameter name="快照" id="1" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="3" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0.55339805825242716"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="2" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="1"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+				</parameter>
+				<parameter name="Feather" id="100" flags="8606712080" default="0" value="0.77272727272727271"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Amount" id="987121781" factoryID="22" version="5">
+			<affecting>3</affecting>
+			<snapshot>1</snapshot>
+			<snapshot>3</snapshot>
+			<snapshot>4</snapshot>
+			<snapshot>5</snapshot>
+			<snapshot>2</snapshot>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="选项" id="103" flags="8589938688">
+					<parameter name="最小范围" id="104" flags="8606711824" default="0" value="0"/>
+					<parameter name="最大范围" id="105" flags="8606711824" default="100" value="100"/>
+				</parameter>
+				<parameter name="Hidden" id="102" flags="12901679120" default="0" value="0"/>
+				<parameter name="快照" id="101" flags="8589938706">
+					<parameter name="快照" id="1" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="3" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0.33846153846153848"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="4" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0.50485436893203883"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="5" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0.74857142857142855"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="2" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="1"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+				</parameter>
+				<parameter name="Amount" id="100" flags="8606712080" default="0" value="0.75"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Contrast" id="987121743" factoryID="22" version="5">
+			<affecting>3</affecting>
+			<snapshot>1</snapshot>
+			<snapshot>3</snapshot>
+			<snapshot>2</snapshot>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524368</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="选项" id="103" flags="8589938688">
+					<parameter name="最小范围" id="104" flags="8606711824" default="0" value="0"/>
+					<parameter name="最大范围" id="105" flags="8606711824" default="100" value="100"/>
+				</parameter>
+				<parameter name="Hidden" id="102" flags="12901679120" default="0" value="0"/>
+				<parameter name="快照" id="101" flags="8589938706">
+					<parameter name="快照" id="1" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="3" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="0.49230769230769234"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+					<parameter name="快照" id="2" flags="8589938704">
+						<parameter name="值" id="1" flags="8589934608" default="0" value="1"/>
+						<parameter name="插值" id="2" flags="8590000144" default="1" value="1"/>
+					</parameter>
+				</parameter>
+				<parameter name="Contrast" id="100" flags="8606712080" default="0" value="0.5"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704"/>
+		<parameter name="对象" id="2" flags="8589938704"/>
+	</scenenode>
+	<layer name="Group" id="987121450">
+		<scenenode name="Color Solid" id="1999779069" factoryID="7" pluginUUID="C18E8B62-C24F-4F8D-8597-858675A40BBC" pluginVersion="0" pluginName="Color Solid" version="5">
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="1201196 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>16385</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<enabled>0</enabled>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="灯光" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="倒影" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Color Solid" id="1" flags="8589938704">
+					<parameter name="宽度" id="300" flags="12901679120" default="1920" value="1920"/>
+					<parameter name="高度" id="301" flags="12901679120" default="1080" value="1080"/>
+					<parameter name="颜色" id="1" flags="8589938704">
+						<foldFlags>11</foldFlags>
+						<parameter name="蓝色" id="3" flags="8606711824" default="1" value="0"/>
+					</parameter>
+					<parameter name="翻转" id="10002" flags="12905938976" default="0" value="0"/>
+				</parameter>
+			</parameter>
+			<filter name="Circle Blur" id="987122479" factoryID="21" pluginUUID="8B8B4934-BD85-43BC-A63B-D7A01C4C0191" pluginVersion="3" pluginName="PAECircleBlur" pluginDynamicParams="0">
+				<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934608</baseFlags>
+				<parameter name="居中" id="1" flags="12884905984">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="数量" id="2" flags="12901679120" default="10" value="10"/>
+				<parameter name="半径" id="3" flags="8606711824" default="400" value="250"/>
+				<parameter name="裁剪" id="4" flags="12901679120" default="1" value="1"/>
+				<parameter name="混合" id="10001" flags="12901679104" default="1" value="1"/>
+				<parameter name="翻转" id="10002" flags="12905938976" default="0" value="0"/>
+				<parameter name="输入点" id="10003" flags="12905938976" default="1" value="1"/>
+				<parameter name="发布 OSC" id="10005" flags="8606711808" default="0" value="1"/>
+			</filter>
+		</scenenode>
+		<scenenode name="Foreground" id="987121463" factoryID="15" version="5">
+			<mask name="Circle Mask" id="1999869975" factoryID="12">
+				<isShapeStyle>0</isShapeStyle>
+				<aspectRatio>1</aspectRatio>
+				<flags>8</flags>
+				<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+				<foldFlags>1</foldFlags>
+				<baseFlags>80</baseFlags>
+				<parameter name="属性" id="1" flags="8589938704">
+					<parameter name="变换" id="100" flags="8589938704">
+						<parameter name="位置" id="101" flags="8589938704">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="0"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="0"/>
+							<parameter name="Z" id="3" flags="8589934610" default="0" value="0"/>
+						</parameter>
+						<parameter name="缩放" id="105" flags="8589938704">
+							<foldFlags>11</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="1" value="1"/>
+							<parameter name="Y" id="2" flags="8606711824" default="1" value="1"/>
+							<parameter name="Z" id="3" flags="8589934610" default="1" value="1"/>
+						</parameter>
+					</parameter>
+					<parameter name="灯光" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="阴影" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="倒影" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="裁剪" id="216" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="对象" id="2" flags="8589938704">
+					<parameter name="形状" id="353" flags="8589938704">
+						<parameter name="动画" id="117" flags="8589934610" default="0" value="0">
+							<curve_X/>
+							<curve_Y/>
+							<closed>0</closed>
+						</parameter>
+						<parameter name="形状类型" id="100" flags="12884967442" default="4" value="4"/>
+						<parameter name="闭合" id="116" flags="8590000146" default="0" value="1"/>
+						<parameter name="圆度" id="144" flags="8589934610" default="0" value="0"/>
+						<parameter name="保留比例" id="152" flags="8589934610" default="1" value="1"/>
+						<parameter name="填充" id="113" flags="8589938706">
+							<foldFlags>131072</foldFlags>
+						</parameter>
+						<parameter name="外框" id="108" flags="8589971474">
+							<foldFlags>131072</foldFlags>
+							<parameter name="笔画上的压力" id="136" flags="8724348946">
+								<curve type="1" default="1" value="1" round="0">
+									<numberOfKeypoints>2</numberOfKeypoints>
+									<min>0</min>
+									<max>1</max>
+									<keypoint interpolation="1" flags="0">
+										<time>0 1 1 0</time>
+										<value>1</value>
+										<outputTangentTime>0.33333333333333331</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>1 1 1 0</time>
+										<value>1</value>
+										<inputTangentTime>-0.33333333333333331</inputTangentTime>
+										<inputTangentValue>0</inputTangentValue>
+										<outputTangentTime>0.33333333333333331</outputTangentTime>
+										<outputTangentValue>-0</outputTangentValue>
+									</keypoint>
+								</curve>
+								<rangeName>Stroke Length</rangeName>
+							</parameter>
+							<parameter name="笔画上的笔速" id="138" flags="8724348946">
+								<curve type="1" default="1" value="1" round="0">
+									<numberOfKeypoints>2</numberOfKeypoints>
+									<min>0</min>
+									<max>1</max>
+									<keypoint interpolation="1" flags="0">
+										<time>0 1 1 0</time>
+										<value>1</value>
+										<outputTangentTime>0.33333333333333331</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>1 1 1 0</time>
+										<value>1</value>
+										<inputTangentTime>-0.33333333333333331</inputTangentTime>
+										<inputTangentValue>0</inputTangentValue>
+										<outputTangentTime>0.33333333333333331</outputTangentTime>
+										<outputTangentValue>-0</outputTangentValue>
+									</keypoint>
+								</curve>
+								<rangeName>Stroke Length</rangeName>
+							</parameter>
+						</parameter>
+						<parameter name="羽化" id="102" flags="8606711824" default="0" value="530"/>
+						<parameter name="曲率" id="159" flags="12901679120" default="1" value="1"/>
+						<parameter name="半径" id="160" flags="8589938704">
+							<foldFlags>8388623</foldFlags>
+							<parameter name="X" id="1" flags="12901679120" default="203.27103233337624" value="125"/>
+							<parameter name="Y" id="2" flags="12901679120" default="203.27103233337624" value="125"/>
+						</parameter>
+						<parameter name="是遮罩" id="154" flags="8589934610" default="0" value="1"/>
+						<parameter name="遮罩混合模式" id="103" flags="8606777360" default="0" value="0"/>
+						<parameter name="反转遮罩" id="115" flags="8606711824" default="0" value="0"/>
+						<parameter name="遮罩颜色" id="143" flags="8606777360" default="0" value="0"/>
+						<parameter name="已完成" id="157" flags="8589934610" default="0" value="1"/>
+					</parameter>
+				</parameter>
+				<behavior name="Link Y" id="3001966231" factoryID="10">
+					<dynamicChannelIDSet offsetChannelID="3001966235" rangeMinChannelID="3001966236" rangeMaxChannelID="3001966237"/>
+					<channelBehavior affectingFactory="712462a4323911d78f8400039389b702" affectingChannel="./1/100/101/2" sliderRange="3.4028234663852886e+38"/>
+					<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77326254098" default="0" value="1999869975"/>
+					<parameter name="源对象" id="201" flags="77326254096" default="0" value="1999779069"/>
+					<parameter name="混合时间范围" id="206" flags="8606711826" default="10" value="10"/>
+					<parameter name="将源值钳制于范围内" id="209" flags="8606711826" default="1" value="1"/>
+					<parameter name="Y 偏移" id="3001966235" flags="8606711824" default="0" value="-0.49769531250000021"/>
+					<parameter name="Y 最小" id="3001966236" flags="8606711826" default="-100" value="-100"/>
+					<parameter name="Y 最大" id="3001966237" flags="8606711826" default="1" value="1"/>
+					<sourceParentChannelRef>./3/987122479/1/2</sourceParentChannelRef>
+					<expressionChannels>
+						<sourceChannelRef>./3/987122479/1/2</sourceChannelRef>
+						<targetChannelID>2</targetChannelID>
+						<offsetChannelRef>./3001966235</offsetChannelRef>
+						<minChannelRef>./3001966236</minChannelRef>
+						<maxChannelRef>./3001966237</maxChannelRef>
+					</expressionChannels>
+				</behavior>
+				<behavior name="Link X" id="3001966200" factoryID="10">
+					<dynamicChannelIDSet offsetChannelID="3001966210" rangeMinChannelID="3001966211" rangeMaxChannelID="3001966212"/>
+					<channelBehavior affectingFactory="712462a4323911d78f8400039389b702" affectingChannel="./1/100/101/1" sliderRange="3.4028234663852886e+38"/>
+					<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77326254098" default="0" value="1999869975"/>
+					<parameter name="源对象" id="201" flags="77326254096" default="0" value="1999779069"/>
+					<parameter name="混合时间范围" id="206" flags="8606711826" default="10" value="10"/>
+					<parameter name="将源值钳制于范围内" id="209" flags="8606711826" default="1" value="1"/>
+					<parameter name="X 偏移" id="3001966210" flags="8606711824" default="0" value="-0.5"/>
+					<parameter name="X 最小" id="3001966211" flags="8606711826" default="-100" value="-100"/>
+					<parameter name="X 最大" id="3001966212" flags="8606711826" default="1" value="1"/>
+					<sourceParentChannelRef>./3/987122479/1/1</sourceParentChannelRef>
+					<expressionChannels>
+						<sourceChannelRef>./3/987122479/1/1</sourceChannelRef>
+						<targetChannelID>1</targetChannelID>
+						<offsetChannelRef>./3001966210</offsetChannelRef>
+						<minChannelRef>./3001966211</minChannelRef>
+						<maxChannelRef>./3001966212</maxChannelRef>
+					</expressionChannels>
+				</behavior>
+				<behavior name="LinkSY" id="3001971592" factoryID="10">
+					<dynamicChannelIDSet offsetChannelID="3001971621" rangeMinChannelID="3001971622" rangeMaxChannelID="3001971623"/>
+					<channelBehavior affectingFactory="712462a4323911d78f8400039389b702" affectingChannel="./1/100/105/2" sliderRange="4"/>
+					<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="1999869975"/>
+					<parameter name="源对象" id="201" flags="77309476880" default="0" value="1999779069"/>
+					<parameter name="缩放" id="204" flags="8589934608" default="1" value="2"/>
+					<parameter name="混合时间范围" id="206" flags="8589934610" default="10" value="10"/>
+					<parameter name="将源值钳制于范围内" id="209" flags="8589934610" default="1" value="1"/>
+					<parameter name="半径 偏移" id="3001971621" flags="8589934608" default="0" value="0"/>
+					<parameter name="半径 最小" id="3001971622" flags="8589934610" default="-100" value="0"/>
+					<parameter name="半径 最大" id="3001971623" flags="8589934610" default="2000" value="2000"/>
+					<sourceParentChannelRef>./3/987122479/3</sourceParentChannelRef>
+					<expressionChannels>
+						<sourceChannelRef>./3/987122479/3</sourceChannelRef>
+						<targetChannelID>2</targetChannelID>
+						<offsetChannelRef>./3001971621</offsetChannelRef>
+						<minChannelRef>./3001971622</minChannelRef>
+						<maxChannelRef>./3001971623</maxChannelRef>
+					</expressionChannels>
+				</behavior>
+				<behavior name="LinkSX" id="3001971573" factoryID="10">
+					<dynamicChannelIDSet offsetChannelID="3001971615" rangeMinChannelID="3001971616" rangeMaxChannelID="3001971617"/>
+					<channelBehavior affectingFactory="712462a4323911d78f8400039389b702" affectingChannel="./1/100/105/1" sliderRange="4"/>
+					<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="1999869975"/>
+					<parameter name="源对象" id="201" flags="77309476880" default="0" value="1999779069"/>
+					<parameter name="缩放" id="204" flags="8589934608" default="1" value="2"/>
+					<parameter name="混合时间范围" id="206" flags="8589934610" default="10" value="10"/>
+					<parameter name="将源值钳制于范围内" id="209" flags="8589934610" default="1" value="1"/>
+					<parameter name="半径 偏移" id="3001971615" flags="8589934608" default="0" value="0"/>
+					<parameter name="半径 最小" id="3001971616" flags="8589934610" default="-100" value="0"/>
+					<parameter name="半径 最大" id="3001971617" flags="8589934610" default="2000" value="2000"/>
+					<sourceParentChannelRef>./3/987122479/3</sourceParentChannelRef>
+					<expressionChannels>
+						<sourceChannelRef>./3/987122479/3</sourceChannelRef>
+						<targetChannelID>1</targetChannelID>
+						<offsetChannelRef>./3001971615</offsetChannelRef>
+						<minChannelRef>./3001971616</minChannelRef>
+						<maxChannelRef>./3001971617</maxChannelRef>
+					</expressionChannels>
+				</behavior>
+				<behavior name="Rig Behavior" id="1999870034" factoryID="20">
+					<channelBehavior affectingFactory="712462a4323911d78f8400039389b702" affectingChannel="./2/353/102" sliderRange="200"/>
+					<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8589934610</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="1999869975"/>
+					<parameter name="小组件" id="200" flags="77309476880" default="0" value="987158359"/>
+					<parameter name="快照" id="202" flags="8590004242">
+						<flags>8590004242</flags>
+						<parameter name="Feather" id="1" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="-128"/>
+						</parameter>
+						<parameter name="Feather" id="3" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="530"/>
+						</parameter>
+						<parameter name="Feather" id="2" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="1000"/>
+						</parameter>
+					</parameter>
+				</behavior>
+				<behavior name="Rig Behavior 3" id="3001971642" factoryID="20">
+					<channelBehavior affectingFactory="68fba2c1aa094655bf4b81587efec626" affectingChannel="./3001971615" sliderRange="100"/>
+					<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8589934610</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="3001971573"/>
+					<parameter name="小组件" id="200" flags="77309476880" default="0" value="987121449"/>
+					<parameter name="快照" id="202" flags="8590004242">
+						<flags>8590004242</flags>
+						<parameter name="Radius offset" id="2" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="-80"/>
+						</parameter>
+						<parameter name="Radius offset" id="3" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="-50"/>
+						</parameter>
+						<parameter name="Radius offset" id="1" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="0"/>
+						</parameter>
+					</parameter>
+				</behavior>
+				<behavior name="Rig Behavior 4" id="3001971643" factoryID="20">
+					<channelBehavior affectingFactory="68fba2c1aa094655bf4b81587efec626" affectingChannel="./3001971621" sliderRange="100"/>
+					<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8589934610</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="3001971592"/>
+					<parameter name="小组件" id="200" flags="77309476880" default="0" value="987121449"/>
+					<parameter name="快照" id="202" flags="8590004242">
+						<flags>8590004242</flags>
+						<parameter name="Radius offset" id="2" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="-80"/>
+						</parameter>
+						<parameter name="Radius offset" id="3" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="-50"/>
+						</parameter>
+						<parameter name="Radius offset" id="1" factoryID="24">
+							<flags>8589934608</flags>
+							<curve type="1" default="0" value="0"/>
+						</parameter>
+					</parameter>
+				</behavior>
+			</mask>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="混合" id="200" flags="8589938704">
+					<parameter name="不透明度" id="202" flags="8606711824" default="1" value="1"/>
+				</parameter>
+				<parameter name="灯光" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+					<parameter name="投影" id="1" flags="12884901904" default="1" value="1"/>
+					<parameter name="接收阴影" id="2" flags="12884901904" default="1" value="1"/>
+					<parameter name="仅阴影" id="3" flags="12884901904" default="0" value="0"/>
+				</parameter>
+				<parameter name="倒影" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+					<parameter name="反射率" id="228" flags="12884901904" default="0.80000000000000004" value="0.80000000000000004"/>
+					<parameter name="模糊量" id="229" flags="12884901904" default="0" value="0"/>
+				</parameter>
+				<parameter name="速度" id="305" flags="12905938960" default="1" value="1"/>
+				<parameter name="反转" id="306" flags="12905938960" default="0" value="0"/>
+				<parameter name="结尾时间长度" id="308" flags="12884934674" default="0" value="0"/>
+				<parameter name="重新定时值" id="309" flags="12885032978" default="1" value="1"/>
+				<parameter name="重新定时值缓存" id="311" flags="12885032978" default="1" value="1"/>
+				<parameter name="时间长度缓存" id="312" flags="12884901906" default="0" value="0"/>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Foreground" id="1" flags="8589938704">
+					<parameter name="来源" id="300" flags="12901744656" default="0" value="987121454"/>
+				</parameter>
+			</parameter>
+			<filter name="Brightness" id="987121676" factoryID="21" pluginUUID="2E4DBB0A-A950-4896-BC2D-A5B0CFF7FAC6" pluginVersion="0" pluginName="PAEBrightness" pluginDynamicParams="0">
+				<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934608</baseFlags>
+				<parameter name="亮度" id="1" flags="8606711824" default="1" value="2.6699999999999999"/>
+				<parameter name="混合" id="10001" flags="8606711808" default="1" value="1"/>
+				<parameter name="翻转" id="10002" flags="12905938976" default="0" value="0"/>
+				<parameter name="输入点" id="10003" flags="12905938976" default="1" value="1"/>
+			</filter>
+			<filter name="ColorBalanceFg" id="987121619" factoryID="21" pluginUUID="E9B93275-A56D-4012-BEF6-5DD59A74B344" pluginVersion="1" pluginName="PAEColorBalance" pluginDynamicParams="0">
+				<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934608</baseFlags>
+				<parameter name="暗调" id="10" flags="12884906000">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="中间调" id="11" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8606711824" default="0.5" value="0.5009302029355901"/>
+					<parameter name="绿色" id="2" flags="8606711824" default="0.5" value="0.45477472420834025"/>
+					<parameter name="蓝色" id="3" flags="8606711824" default="0.5" value="0.35366944893735464"/>
+					<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="3"/>
+				</parameter>
+				<parameter name="高光" id="12" flags="12884906000">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="增强" id="14" flags="12901679120" default="0" value="0"/>
+				<parameter name="片段颜色值" id="13" flags="8606777360" default="0" value="2"/>
+				<parameter name="IOS Compatability Behavior" id="15" flags="12905938992" default="0" value="0"/>
+				<parameter name="ColorBalance::HDR In Rec. 709" id="16" flags="12905938992" default="0" value="0"/>
+				<parameter name="混合" id="10001" flags="8606711808" default="1" value="1"/>
+				<parameter name="翻转" id="10002" flags="12905938976" default="0" value="0"/>
+				<parameter name="输入点" id="10003" flags="12905938976" default="1" value="1"/>
+			</filter>
+			<behavior name="Rig Behavior 3" id="987122390" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./11" sliderRange="3"/>
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121619"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Midtones" id="1" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50078916549682617">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.46496695280075073">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.42590707540512085">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="3" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50078916549682617">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.46496695280075073">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.42590707540512085">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="2" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50103819370269775">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.44857817888259888">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.32172343134880066">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="4" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50082552433013916">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.46078121662139893">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.38463565707206726">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="5" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.5009302029355901">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.45477472420834025">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.35366944893735464">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 2" id="987121937" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./1" sliderRange="5"/>
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121676"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121743"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Brightness" id="1" factoryID="24">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="1.1499999999999999">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+					<parameter name="Brightness" id="2" factoryID="24">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="2.6699999999999999">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+					<parameter name="Brightness" id="3" factoryID="24">
+						<flags>8606711825</flags>
+						<curve type="1" default="1" value="1.5700000000000003">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 1" id="987121837" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./10001" sliderRange="1"/>
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121619"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Mix" id="1" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="2" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="3" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="4" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="5" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior" id="987121782" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./10001" sliderRange="1"/>
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121676"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Mix" id="1" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="2" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="3" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="4" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="5" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 4" id="999120898" factoryID="20">
+				<channelBehavior affectingFactory="84414060b0fd11d99bb5000a957d5fce" affectingChannel="./1/200/202" sliderRange="1"/>
+				<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="987121463"/>
+				<parameter name="小组件" id="200" flags="77309476880" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Opacity" id="1" factoryID="3">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Opacity" id="3" factoryID="3">
+						<flags>8589934608</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Opacity" id="4" factoryID="3">
+						<flags>8589934608</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Opacity" id="2" factoryID="3">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Opacity" id="5" factoryID="3">
+						<flags>8589934608</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+		</scenenode>
+		<scenenode name="Background" id="987121489" factoryID="15" version="5">
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524368</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="灯光" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+					<parameter name="投影" id="1" flags="12884901904" default="1" value="1"/>
+					<parameter name="接收阴影" id="2" flags="12884901904" default="1" value="1"/>
+					<parameter name="仅阴影" id="3" flags="12884901904" default="0" value="0"/>
+				</parameter>
+				<parameter name="倒影" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+					<parameter name="反射率" id="228" flags="12884901904" default="0.80000000000000004" value="0.80000000000000004"/>
+					<parameter name="模糊量" id="229" flags="12884901904" default="0" value="0"/>
+				</parameter>
+				<parameter name="速度" id="305" flags="12905938960" default="1" value="1"/>
+				<parameter name="反转" id="306" flags="12905938960" default="0" value="0"/>
+				<parameter name="结尾时间长度" id="308" flags="12884934674" default="0" value="0"/>
+				<parameter name="重新定时值" id="309" flags="12885032978" default="1" value="1"/>
+				<parameter name="重新定时值缓存" id="311" flags="12885032978" default="1" value="1"/>
+				<parameter name="时间长度缓存" id="312" flags="12884901906" default="0" value="0"/>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="Background" id="1" flags="8589938704">
+					<parameter name="来源" id="300" flags="12901744656" default="0" value="987121454"/>
+				</parameter>
+			</parameter>
+			<filter name="Brightness" id="987121711" factoryID="21" pluginUUID="2E4DBB0A-A950-4896-BC2D-A5B0CFF7FAC6" pluginVersion="0" pluginName="PAEBrightness" pluginDynamicParams="0">
+				<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934672</baseFlags>
+				<parameter name="亮度" id="1" flags="8606711824" default="1" value="0"/>
+				<parameter name="混合" id="10001" flags="8589934592" default="1" value="1"/>
+				<parameter name="翻转" id="10002" flags="12889161760" default="0" value="0"/>
+				<parameter name="输入点" id="10003" flags="12889161760" default="1" value="1"/>
+			</filter>
+			<filter name="ColorBalanceBg" id="987121601" factoryID="21" pluginUUID="E9B93275-A56D-4012-BEF6-5DD59A74B344" pluginVersion="1" pluginName="PAEColorBalance" pluginDynamicParams="0">
+				<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934672</baseFlags>
+				<parameter name="暗调" id="10" flags="12884906000">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="中间调" id="11" flags="8589938704">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8606711824" default="0.5" value="0.33356859315343262"/>
+					<parameter name="绿色" id="2" flags="8606711824" default="0.5" value="0.35548757408847331"/>
+					<parameter name="蓝色" id="3" flags="8606711824" default="0.5" value="0.50039384534045095"/>
+					<parameter name="色彩空间" id="11" flags="8590000274" default="3" value="3"/>
+				</parameter>
+				<parameter name="高光" id="12" flags="12884906000">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="增强" id="14" flags="12901679120" default="0" value="0"/>
+				<parameter name="片段颜色值" id="13" flags="8606777360" default="0" value="2"/>
+				<parameter name="IOS Compatability Behavior" id="15" flags="12905938992" default="0" value="0"/>
+				<parameter name="ColorBalance::HDR In Rec. 709" id="16" flags="12905938992" default="0" value="0"/>
+				<parameter name="混合" id="10001" flags="8606711808" default="1" value="1"/>
+				<parameter name="翻转" id="10002" flags="12905938976" default="0" value="0"/>
+				<parameter name="输入点" id="10003" flags="12905938976" default="1" value="1"/>
+			</filter>
+			<behavior name="Rig Behavior 5" id="987159714" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./1" sliderRange="5"/>
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121711"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121743"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Brightness" id="1" factoryID="24">
+						<flags>8606711825</flags>
+						<curve type="1" default="1" value="0.90000000000000002">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+					<parameter name="Brightness" id="3" factoryID="24">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="0.79000000000000004">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+					<parameter name="Brightness" id="2" factoryID="24">
+						<flags>8606711825</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 4" id="987159330" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./10001" sliderRange="1"/>
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121601"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Mix" id="1" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="3" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="2" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="4" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="5" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 3" id="987122418" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./11" sliderRange="3"/>
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121601"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Midtones" id="1" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.5">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.5">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.5">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="3" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.45222395658493042">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.46549022197723389">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50013291835784912">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="2" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>15</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.25541567802429199">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.28695344924926758">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50054687261581421">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="4" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>11</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.40932449698448181">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.42191970348358154">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50024551153182983">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Midtones" id="5" factoryID="16">
+						<flags>8589938704</flags>
+						<foldFlags>11</foldFlags>
+						<parameter name="红色" id="1" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.33356859315343262">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="绿色" id="2" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.35548757408847331">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="蓝色" id="3" factoryID="24">
+							<flags>8606711824</flags>
+							<curve type="1" default="0.5" value="0.50039384534045095">
+								<min>-6</min>
+								<max>8</max>
+							</curve>
+						</parameter>
+						<parameter name="色彩空间" id="11" factoryID="6">
+							<flags>8590000274</flags>
+							<curve type="0" default="3" value="3">
+								<min>0</min>
+								<max>4294967295</max>
+							</curve>
+						</parameter>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 2" id="987121904" factoryID="20">
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121601"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Mix" id="1" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="2" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="3" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 1" id="987121882" factoryID="20">
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121711"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Mix" id="1" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="2" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="3" factoryID="3">
+						<flags>8606711808</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior" id="987121744" factoryID="20">
+				<timing in="0 1 1 0" out="10506496 7680000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="12884967442" default="0" value="987121711"/>
+				<parameter name="小组件" id="200" flags="12884967440" default="0" value="987121743"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Brightness" id="1" factoryID="24">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="0.90000000000000002">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+					<parameter name="Brightness" id="2" factoryID="24">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+					<parameter name="Brightness" id="3" factoryID="24">
+						<flags>8606711824</flags>
+						<curve type="1" default="1" value="0.83999999999999986">
+							<min>0</min>
+							<max>100</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+			<behavior name="Rig Behavior 6" id="999120938" factoryID="20">
+				<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./10001" sliderRange="1"/>
+				<timing in="0 1 1 0" out="-4004 120000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934610</baseFlags>
+				<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="987121711"/>
+				<parameter name="小组件" id="200" flags="77309476880" default="0" value="987121781"/>
+				<parameter name="快照" id="202" flags="8590004242">
+					<flags>8590004242</flags>
+					<parameter name="Mix" id="1" factoryID="3">
+						<flags>8589934592</flags>
+						<curve type="1" default="1" value="0">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="3" factoryID="3">
+						<flags>8589934592</flags>
+						<curve type="1" default="1" value="0.37579999999999997">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="4" factoryID="3">
+						<flags>8589934592</flags>
+						<curve type="1" default="1" value="0.81120000000000003">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="2" factoryID="3">
+						<flags>8589934592</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+					<parameter name="Mix" id="5" factoryID="3">
+						<flags>8589934592</flags>
+						<curve type="1" default="1" value="1">
+							<min>0</min>
+							<max>1</max>
+						</curve>
+					</parameter>
+				</parameter>
+			</behavior>
+		</scenenode>
+		<scenenode name="Effect Source" id="987121454" factoryID="9" version="5">
+			<validTracks>0</validTracks>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="76620544 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<enabled>0</enabled>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="电影效果" id="344" flags="8589938706">
+					<foldFlags>131076</foldFlags>
+					<parameter name="景深" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+					<parameter name="焦点" id="348" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="灯光" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+					<parameter name="投影" id="1" flags="12884901904" default="1" value="1"/>
+					<parameter name="接收阴影" id="2" flags="12884901904" default="1" value="1"/>
+					<parameter name="仅阴影" id="3" flags="12884901904" default="0" value="0"/>
+				</parameter>
+				<parameter name="倒影" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+					<parameter name="反射率" id="228" flags="12884901904" default="0.80000000000000004" value="0.80000000000000004"/>
+					<parameter name="模糊量" id="229" flags="12884901904" default="0" value="0"/>
+				</parameter>
+				<parameter name="媒体" id="324" flags="8589938704">
+					<foldFlags>4</foldFlags>
+					<parameter name="源媒体" id="300" flags="12901744656" default="3001971655" value="3001971655"/>
+					<parameter name="源媒体" id="325" flags="8590000146"/>
+				</parameter>
+				<parameter name="页码" id="301" flags="12884901906" default="1" value="1"/>
+				<parameter name="速度" id="309" flags="12905938960" default="1" value="1"/>
+				<parameter name="反转" id="310" flags="12905938960" default="0" value="0"/>
+				<parameter name="重新定时值" id="304" flags="8590066066">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="0">
+							<time>0 1 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="0">
+							<time>76876800 7680000 1 0</time>
+							<value>301</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="重新定时值缓存" id="319" flags="8590065810">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="128">
+							<time>0 1 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="128">
+							<time>76876800 7680000 1 0</time>
+							<value>301</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="结尾时间长度" id="307" flags="12884934674" default="0" value="0"/>
+				<parameter name="时间长度缓存" id="320" flags="12884901906" default="0" value="300"/>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="拖放区" id="311" flags="12884902034" default="0" value="1"/>
+				<parameter name="类型" id="321" flags="12884967442" default="0" value="3"/>
+				<parameter name="已替换" id="312" flags="12884901906" default="0" value="1"/>
+				<parameter name="移动" id="326" flags="77309415440">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="缩放" id="327" flags="77309415440">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="填充不透明" id="328" flags="8606711824" default="0" value="0"/>
+				<parameter name="填充颜色" id="329" flags="8589938704">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="清除" id="315" flags="12901744656" default="0" value="0"/>
+				<parameter name="宽度" id="313" flags="12884901906" default="1" value="1920"/>
+				<parameter name="高度" id="314" flags="12884901906" default="1" value="1080"/>
+			</parameter>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="1201196 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704">
+			<parameter name="灯光" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="阴影" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+				<parameter name="投影" id="1" flags="12884901904" default="1" value="1"/>
+				<parameter name="接收阴影" id="2" flags="12884901904" default="1" value="1"/>
+				<parameter name="仅阴影" id="3" flags="12884901904" default="0" value="0"/>
+			</parameter>
+			<parameter name="倒影" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+				<parameter name="反射率" id="228" flags="12884901904" default="0.80000000000000004" value="0.80000000000000004"/>
+				<parameter name="模糊量" id="229" flags="12884901904" default="0" value="0"/>
+			</parameter>
+		</parameter>
+		<parameter name="对象" id="2" flags="8589938704">
+			<parameter name="固定宽度" id="302" flags="12901679124" default="720" value="720"/>
+			<parameter name="固定高度" id="303" flags="12901679124" default="480" value="480"/>
+			<parameter name="展平" id="311" flags="12884901906" default="0" value="0"/>
+			<parameter name="层顺序" id="305" flags="12884901906" default="0" value="0"/>
+			<parameter name="光圈宽度" id="312" flags="12884901906" default="1920" value="720"/>
+			<parameter name="光圈高度" id="313" flags="12884901906" default="1080" value="480"/>
+			<parameter name="Hidden Channel" id="314" flags="12884901906" default="5" value="5"/>
+			<parameter name="新的固定分辨率行为" id="315" flags="8610971696" default="1" value="0"/>
+		</parameter>
+	</layer>
+
+	<footage name="Media Layer" id="987121453">
+		<clip name="demo" id="3001971655">
+			<relativeURL>Media/demo.jpg</relativeURL>
+			<missingWidth>580</missingWidth>
+			<missingHeight>312</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="像素宽高比" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="帧速率" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="固定宽度" id="114" flags="12884901888" default="580" value="580"/>
+				<parameter name="固定高度" id="115" flags="12884901888" default="312" value="312"/>
+				<parameter name="使用背景颜色" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="背景颜色" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="红色" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="绿色" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="蓝色" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="1"/>
+			</parameter>
+		</clip>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704"/>
+		<parameter name="对象" id="2" flags="8589938704"/>
+	</footage>
+</scene>
+
+</ozml>
